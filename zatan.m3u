@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 ,东森电影
+http://120.84.96.33:808/hls/32/index.m3u8
+#EXTINF:-1 ,东森电影
+http://120.84.96.32:808/hls/32/index.m3u8
+#EXTINF:-1 ,东森电影
+http://120.84.96.130:808/hls/32/index.m3u8
+#EXTINF:-1 ,东森美洲
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 ,东森新闻
+http://1080.youkucdn.live:25461/live/66325546/123/3904.m3u8
+#EXTINF:-1 ,东森洋片
+http://120.84.96.130:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片
+http://120.84.96.32:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片
+http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.222:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片
+http://120.84.96.33:808/hls/33/index.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+#EXTINF:-1 ,郑州新闻综合
+http://live.zztv.tv/gbds/playlist.m3u8
+#EXTINF:-1 ,郑州商都频道
+http://live.zztv.tv/zztv2/playlist.m3u8
+#EXTINF:-1 ,郑州文体旅游
+http://live.zztv.tv/wtzzly/playlist.m3u8
+#EXTINF:-1 ,郑州4
+http://live.zztv.tv/zztv4/sd/live.m3u8
+#EXTINF:-1 ,郑州5
+http://live.zztv.tv/zztv5/sd/live.m3u8
+#EXTINF:-1 ,郑州6
+http://live.zztv.tv/zztv6/sd/live.m3u8
