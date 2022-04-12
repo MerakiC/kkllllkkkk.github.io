@@ -121,9 +121,10 @@ http://new-pro.tv:8080/Fernando/123321/2671?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/69848?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Lualua TV
 http://new-pro.tv:8080/Fernando/123321/100044?checkedby:iptvcat.com
+#EXTM3U
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",12 Arabia
 http://new-pro.tv:8080/Fernando/123321/99652?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="General;伊拉克",ABN SAT (1280×720),ABNsat
+#EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="伊拉克",ABN SAT (1280×720),ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",AFAQ TV
 http://red.ipfox.org:8080/amer/amer1234/33112?checkedby:iptvcat.com
@@ -173,15 +174,15 @@ http://red.ipfox.org:8080/amer/amer1234/33137?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/10975?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Hurra HD
 http://new-pro.tv:8080/Fernando/123321/67443?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="News",Al Hurra Iraq
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="伊拉克",Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Hurra Iraq
 http://new-pro.tv:8080/Fernando/123321/67438?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Iraqia HD
 http://new-pro.tv:8080/Fernando/123321/33812?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="伊拉克",Al Iraqiya Al 3ama
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="伊拉克",Al Iraqiya News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Kawthar
 http://red.ipfox.org:8080/amer/amer1234/33143?checkedby:iptvcat.com
@@ -205,9 +206,9 @@ http://new-pro.tv:8080/Fernando/123321/100341?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/14157?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Rabiaa Iraq
 http://new-pro.tv:8080/Fernando/123321/180296?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General",Al Rafidain HQ
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="伊拉克",Al Rafidain HQ
 http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General",Al Rafidain HQ
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="伊拉克",Al Rafidain HQ
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Rafidain TV
 http://new-pro.tv:8080/Fernando/123321/6532?checkedby:iptvcat.com
@@ -219,11 +220,11 @@ http://new-pro.tv:8080/Fernando/123321/168?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/14141?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Shaaer TV
 http://new-pro.tv:8080/Fernando/123321/11169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="General",Al Sharqiya
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="伊拉克",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Sharqiya HD
 http://new-pro.tv:8080/Fernando/123321/2292?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="伊拉克",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al Sharqiya News HD
 http://new-pro.tv:8080/Fernando/123321/2291?checkedby:iptvcat.com
@@ -239,7 +240,7 @@ http://new-pro.tv:8080/Fernando/123321/100344?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/179887?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al maaref TV
 http://new-pro.tv:8080/Fernando/123321/99855?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Sport",Al-Iraqiya Sport
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Al-Iraqiya Sport
 http://red.ipfox.org:8080/amer/amer1234/33129?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",AlKomail Channel
 http://new-pro.tv:8080/Fernando/123321/297711?checkedby:iptvcat.com
@@ -255,11 +256,11 @@ http://red.ipfox.org:8080/amer/amer1234/33110?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/270448?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",DUA CHANNEL
 http://red.ipfox.org:8080/amer/amer1234/33122?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="News",Dijlah
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="伊拉克",Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Dijlah TV
 http://red.ipfox.org:8080/amer/amer1234/33131?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="Music",Dijlah Tarab
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="伊拉克",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Dijlah Tarab TV
 http://new-pro.tv:8080/Fernando/123321/100349?checkedby:iptvcat.com
@@ -283,9 +284,9 @@ http://new-pro.tv:8080/Fernando/123321/7657?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/46336?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Imam Hussein 3
 http://new-pro.tv:8080/Fernando/123321/14130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="伊拉克",Imam Hussein TV 2 Arabic
 https://ar.imamhusseintv.com/live/ih201/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 4 Urdu
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="伊拉克",Imam Hussein TV 4 Urdu
 https://ur.imamhusseintv.com/live/ih4.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Iraq 24 HD
 http://new-pro.tv:8080/Fernando/123321/47428?checkedby:iptvcat.com
@@ -303,7 +304,7 @@ http://red.ipfox.org:8080/amer/amer1234/33075?checkedby:iptvcat.com
 http://red.ipfox.org:8080/amer/amer1234/33072?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Iraqia News HD
 http://new-pro.tv:8080/Fernando/123321/31009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Sport",Iraqia Sport HD
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Iraqia Sport HD
 http://new-pro.tv:8080/Fernando/123321/99682?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Iraqia Syriac
 http://new-pro.tv:8080/Fernando/123321/100347?checkedby:iptvcat.com
@@ -355,7 +356,7 @@ http://new-pro.tv:8080/Fernando/123321/14399?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/10976?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Saout Al Aqila
 http://new-pro.tv:8080/Fernando/123321/69635?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Sport",Shabab Iraq Sport 1 HD
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Shabab Iraq Sport 1 HD
 http://new-pro.tv:8080/Fernando/123321/91891?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",Shehab TV
 http://new-pro.tv:8080/Fernando/123321/99669?checkedby:iptvcat.com
@@ -373,7 +374,7 @@ http://new-pro.tv:8080/Fernando/123321/272853?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/39062?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",WTV Watan TV
 http://new-pro.tv:8080/Fernando/123321/270447?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="News",iNEWS (1080p) [Not 24/7]
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",iNEWS (1080p) [Not 24/7]
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",iNEWS HD
 http://red.ipfox.org:8080/amer/amer1234/33119?checkedby:iptvcat.com
