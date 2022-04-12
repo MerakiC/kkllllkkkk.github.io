@@ -902,3 +902,73 @@ http://new-pro.tv:8080/Fernando/123321/221330?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/91391?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Tele Sahel
 http://new-pro.tv:8080/Fernando/123321/13965?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Al Alam Syria TV
+http://new-pro.tv:8080/Fernando/123321/155219?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Al Khabar TV
+http://new-pro.tv:8080/Fernando/123321/179872?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Al Qanat 9
+http://new-pro.tv:8080/Fernando/123321/60021?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="叙利亚",Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Al Yaum TV
+http://new-pro.tv:8080/Fernando/123321/10609?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Halab Today Tv
+http://new-pro.tv:8080/Fernando/123321/101212?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Lana TV 4K
+http://new-pro.tv:8080/Fernando/123321/36460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Lana TV HD
+http://new-pro.tv:8080/Fernando/123321/10980?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Lana TV HD
+http://red.ipfox.org:8080/amer/amer1234/33713?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Lana TV SD
+http://new-pro.tv:8080/Fernando/123321/69847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Minbij TV
+http://new-pro.tv:8080/Fernando/123321/100357?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Noor Al Sham TV
+http://new-pro.tv:8080/Fernando/123321/7191?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Nour Al Sham TV
+http://red.ipfox.org:8080/amer/amer1234/33732?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Rojava HD
+http://new-pro.tv:8080/Fernando/123321/92227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",SAFA TV
+http://red.ipfox.org:8080/amer/amer1234/33728?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY;SY" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="叙利亚",Syria TV,SYRIA TV (1920×1080)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",SYRIAN EDUCATION
+http://red.ipfox.org:8080/amer/amer1234/33722?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Sama TV
+http://red.ipfox.org:8080/amer/amer1234/33731?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Sama TV
+http://new-pro.tv:8080/Fernando/123321/7189?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Sama TV Plus
+http://new-pro.tv:8080/Fernando/123321/36459?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Sham FM
+http://red.ipfox.org:8080/amer/amer1234/33717?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Souryana
+http://new-pro.tv:8080/Fernando/123321/99694?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="叙利亚",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria Drama
+http://new-pro.tv:8080/Fernando/123321/7188?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria Drama Plus
+http://new-pro.tv:8080/Fernando/123321/36462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria HD
+http://new-pro.tv:8080/Fernando/123321/7186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria HD Plus
+http://new-pro.tv:8080/Fernando/123321/79039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria News
+http://new-pro.tv:8080/Fernando/123321/99706?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria News TV
+http://new-pro.tv:8080/Fernando/123321/6887?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria TV
+http://new-pro.tv:8080/Fernando/123321/20913?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria TV HD
+http://red.ipfox.org:8080/amer/amer1234/33711?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syria TV Plus
+http://new-pro.tv:8080/Fernando/123321/28811?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syrian Drama TV
+http://red.ipfox.org:8080/amer/amer1234/33724?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="叙利亚",Syrian TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="叙利亚",Syrian TV 4K
+http://new-pro.tv:8080/Fernando/123321/20949?checkedby:iptvcat.com
