@@ -95,4 +95,29 @@ http://red.ipfox.org:8080/amer/amer1234/34877?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/174732?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Samira TV
 http://new-pro.tv:8080/Fernando/123321/6524?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/WUvqhAZ.png" group-title="巴林",BAHRAIN TV,BH | Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Bahrain International HD
+http://new-pro.tv:8080/Fernando/123321/33766?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Bahrain International HD
+http://red.ipfox.org:8080/amer/amer1234/35076?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Bahrain Quran
+http://red.ipfox.org:8080/amer/amer1234/35074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Bahrain Quran HD
+http://new-pro.tv:8080/Fernando/123321/99104?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Sport",Bahrain Sport 1 HD
+http://new-pro.tv:8080/Fernando/123321/99105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Sport",Bahrain Sport 1 HD
+http://red.ipfox.org:8080/amer/amer1234/35077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Sport",Bahrain Sport 2 HD
+http://new-pro.tv:8080/Fernando/123321/171224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="巴林",Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist_w721264201.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="巴林",Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Bahrain TV HD
+http://new-pro.tv:8080/Fernando/123321/2671?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Bahrain TV SD
+http://new-pro.tv:8080/Fernando/123321/69848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Lualua TV
+http://new-pro.tv:8080/Fernando/123321/100044?checkedby:iptvcat.com
