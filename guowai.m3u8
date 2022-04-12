@@ -380,3 +380,59 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8?checkedby:iptv
 http://red.ipfox.org:8080/amer/amer1234/33119?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",iNews HD
 http://new-pro.tv:8080/Fernando/123321/100350?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="约旦",Al Mamlaka TV,AL MAMLAKA TV (1920×1080)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Al Ghad Al Araby HD
+http://new-pro.tv:8080/Fernando/123321/100336?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Al Mamlaka HD
+http://new-pro.tv:8080/Fernando/123321/33764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="约旦",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="约旦",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="约旦",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Al Mamlaka TV
+http://red.ipfox.org:8080/amer/amer1234/33759?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="约旦",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Amman TV
+http://new-pro.tv:8080/Fernando/123321/31010?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Asharq Business
+http://new-pro.tv:8080/Fernando/123321/28842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Aude TV
+http://new-pro.tv:8080/Fernando/123321/36841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Darsak 1 Tawjihi
+http://new-pro.tv:8080/Fernando/123321/99719?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Darsak 2
+http://new-pro.tv:8080/Fernando/123321/99718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan Amen
+http://new-pro.tv:8080/Fernando/123321/100335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan HD
+http://new-pro.tv:8080/Fernando/123321/2263?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan HD
+http://red.ipfox.org:8080/amer/amer1234/33758?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan Now
+http://new-pro.tv:8080/Fernando/123321/100334?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan Sport
+http://red.ipfox.org:8080/amer/amer1234/33760?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan Sport HD
+http://new-pro.tv:8080/Fernando/123321/71186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jordan TV
+http://red.ipfox.org:8080/amer/amer1234/33757?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Jorden FA TV
+http://new-pro.tv:8080/Fernando/123321/36842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Kaifa TV
+http://new-pro.tv:8080/Fernando/123321/99417?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Karamesh
+http://new-pro.tv:8080/Fernando/123321/99407?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Oman TV Sport HD
+http://new-pro.tv:8080/Fernando/123321/100333?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Roya HD
+http://new-pro.tv:8080/Fernando/123321/11112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Roya HD
+http://red.ipfox.org:8080/amer/amer1234/33755?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Sama Jordan
+http://new-pro.tv:8080/Fernando/123321/179888?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="约旦",Yarmouk TV
+http://new-pro.tv:8080/Fernando/123321/99677?checkedby:iptvcat.com
