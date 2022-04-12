@@ -646,3 +646,35 @@ http://new-pro.tv:8080/Fernando/123321/64998?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/36697?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="LY" tvg-logo="" group-title="利比亚",Tanasuh TV
 http://red.ipfox.org:8080/amer/amer1234/35098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",2M MAROC
+http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",AL AOULA INTER
+http://red.ipfox.org:8080/amer/amer1234/34857?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",ALMAGHRIBIA
+http://red.ipfox.org:8080/amer/amer1234/34858?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",ARRYADIA
+http://red.ipfox.org:8080/amer/amer1234/34859?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",ASSADISSA
+http://red.ipfox.org:8080/amer/amer1234/34860?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",ATHAQAFIA
+http://red.ipfox.org:8080/amer/amer1234/34861?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",LAAYOUNETV
+http://red.ipfox.org:8080/amer/amer1234/34862?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="摩洛哥",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",M24 TV (720p) [Not 24/7]
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",MEDI1-TV HD
+http://red.ipfox.org:8080/amer/amer1234/34864?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",Medi 1 TV Afrique (1080p) [Not 24/7]
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",TAMAZIGHT
+http://red.ipfox.org:8080/amer/amer1234/34863?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="摩洛哥",TELE MAROC
+http://red.ipfox.org:8080/amer/amer1234/34856?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="摩洛哥",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="摩洛哥",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
