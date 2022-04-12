@@ -7811,3 +7811,559 @@ http://168.205.87.198:8555/live/leila/123456/62.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1114/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
 http://168.205.87.198:8555/live/antony/1234/62.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
+http://168.205.87.198:8555/live/michele/123456/62.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
+http://168.205.87.198:8555/live/1111/123456/62.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/leila/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/michele/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/JOSEE/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/1221/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/antony/1234/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/1111/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA
+http://168.205.87.198:8555/live/1114/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90639.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD
+http://cdn99.one:80/356195/FgHq4u/71966.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71967.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX HD
+http://cdn99.one:80/356195/FgHq4u/71968.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX SD
+http://cdn99.one:80/356195/FgHq4u/71969.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fashion TV 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103503.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FashionTV FHD
+http://cdn99.one:80/356195/FgHq4u/71924.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FashionTV FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71925.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FashionTV HD
+http://cdn99.one:80/356195/FgHq4u/71926.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FashionTV SD
+http://cdn99.one:80/356195/FgHq4u/71927.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Film&Arts HD
+http://cdn99.one:80/356195/FgHq4u/104915.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Film&Arts SD
+http://cdn99.one:80/356195/FgHq4u/104916.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fish TV 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103502.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fish TV FHD
+http://cdn99.one:80/356195/FgHq4u/71928.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fish TV FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71929.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fish TV HD
+http://cdn99.one:80/356195/FgHq4u/71930.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fish TV HD
+http://new-pro.tv:8080/Fernando/123321/32891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fish TV SD
+http://cdn99.one:80/356195/FgHq4u/71931.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103501.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network FHD
+http://cdn99.one:80/356195/FgHq4u/71932.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71933.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network HD
+http://new-pro.tv:8080/Fernando/123321/32892?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network HD
+http://cdn99.one:80/356195/FgHq4u/71934.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Food Network SD
+http://cdn99.one:80/356195/FgHq4u/71935.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox HD
+http://new-pro.tv:8080/Fernando/123321/32893?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox Life HD
+http://new-pro.tv:8080/Fernando/123321/33046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/71954.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 FHD
+http://cdn99.one:80/356195/FgHq4u/71952.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71953.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 HD
+http://new-pro.tv:8080/Fernando/123321/33276?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 HD
+http://cdn99.one:80/356195/FgHq4u/71955.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 SD
+http://cdn99.one:80/356195/FgHq4u/71956.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports HD
+http://new-pro.tv:8080/Fernando/123321/33277?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",France 24 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103500.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",France 24 FHD
+http://cdn99.one:80/356195/FgHq4u/104906.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",France 24 FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/104942.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",France 24 HD
+http://cdn99.one:80/356195/FgHq4u/104907.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",France 24 SD
+http://cdn99.one:80/356195/FgHq4u/104941.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103499.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura FHD
+http://cdn99.one:80/356195/FgHq4u/71962.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71963.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura HD
+http://cdn99.one:80/356195/FgHq4u/71964.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura HD
+http://new-pro.tv:8080/Fernando/123321/32900?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura SD
+http://cdn99.one:80/356195/FgHq4u/71965.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
+http://168.205.87.198:8555/live/1114/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
+http://168.205.87.198:8555/live/JOSEE/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
+http://168.205.87.198:8555/live/1111/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
+http://168.205.87.198:8555/live/leila/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
+http://168.205.87.198:8555/live/1221/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
+http://168.205.87.198:8555/live/antony/1234/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/leila/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/1114/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/1221/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/aleixo/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/JOSEE/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/michele/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/1111/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90638.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD
+http://cdn99.one:80/356195/FgHq4u/72102.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT HD
+http://cdn99.one:80/356195/FgHq4u/72104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT HD
+http://new-pro.tv:8080/Fernando/123321/32928?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Anhanguera Goiania
+http://new-pro.tv:8080/Fernando/123321/32902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Brasilia FHD
+http://cdn99.one:80/356195/FgHq4u/131151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Brasilia HD
+http://cdn99.one:80/356195/FgHq4u/131164.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Brasilia SD
+http://cdn99.one:80/356195/FgHq4u/131116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Campinas FHD
+http://cdn99.one:80/356195/FgHq4u/131150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Campinas HD
+http://new-pro.tv:8080/Fernando/123321/32905?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Campinas HD
+http://cdn99.one:80/356195/FgHq4u/71977.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Campinas SD
+http://cdn99.one:80/356195/FgHq4u/131210.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Ribeirao Preto FHD
+http://cdn99.one:80/356195/FgHq4u/131172.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Ribeirao Preto SD
+http://cdn99.one:80/356195/FgHq4u/131202.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Sao Carlos SD
+http://cdn99.one:80/356195/FgHq4u/72592.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Sao Carlos SD
+http://new-pro.tv:8080/Fernando/123321/32906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Sul de Minas FHD
+http://cdn99.one:80/356195/FgHq4u/71979.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo EPTV Sul de Minas HD
+http://cdn99.one:80/356195/FgHq4u/71980.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo INTER TV Cabugi RN SD
+http://new-pro.tv:8080/Fernando/123321/33010?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Inter TV Cabugi FHD
+http://cdn99.one:80/356195/FgHq4u/71985.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Inter TV Cabugi SD
+http://cdn99.one:80/356195/FgHq4u/131186.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Inter TV Grande Minas FHD
+http://cdn99.one:80/356195/FgHq4u/71991.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Inter TV Grande Minas HD
+http://cdn99.one:80/356195/FgHq4u/131115.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Inter TV Serra Mar SD
+http://cdn99.one:80/356195/FgHq4u/71996.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Inter TV dos Vales FHD
+http://cdn99.one:80/356195/FgHq4u/131143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas FHD
+http://cdn99.one:80/356195/FgHq4u/131200.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas HD
+http://new-pro.tv:8080/Fernando/123321/32908?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas HD
+http://cdn99.one:80/356195/FgHq4u/131159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas SD
+http://cdn99.one:80/356195/FgHq4u/131209.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Blumenau FHD
+http://cdn99.one:80/356195/FgHq4u/72004.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Blumenau SD
+http://cdn99.one:80/356195/FgHq4u/131192.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Chapeco FHD
+http://cdn99.one:80/356195/FgHq4u/131174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Florianopolis FHD
+http://cdn99.one:80/356195/FgHq4u/72010.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Florianopolis HD
+http://cdn99.one:80/356195/FgHq4u/131183.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo NSC TV Florianopolis SD
+http://cdn99.one:80/356195/FgHq4u/131144.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Globo News 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90248.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Globo News FHD
+http://cdn99.one:80/356195/FgHq4u/71997.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Globo News FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/71998.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Globo News HD
+http://cdn99.one:80/356195/FgHq4u/71999.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Globo News SD
+http://cdn99.one:80/356195/FgHq4u/131112.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Nordeste FHD
+http://cdn99.one:80/356195/FgHq4u/72001.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Nordeste HD
+http://cdn99.one:80/356195/FgHq4u/131157.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Nordeste HD
+http://new-pro.tv:8080/Fernando/123321/32911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Nordeste SD
+http://cdn99.one:80/356195/FgHq4u/72003.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RBS TV Caxias do Sul FHD
+http://cdn99.one:80/356195/FgHq4u/131160.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RBS TV Caxias do Sul HD
+http://cdn99.one:80/356195/FgHq4u/72014.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RBS TV Caxias do Sul SD
+http://cdn99.one:80/356195/FgHq4u/131130.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RBS TV Pelotas FHD
+http://cdn99.one:80/356195/FgHq4u/72617.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RBS TV Pelotas HD
+http://cdn99.one:80/356195/FgHq4u/131121.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RBS TV Porto Alegre HD
+http://cdn99.one:80/356195/FgHq4u/72017.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RJ FHD
+http://cdn99.one:80/356195/FgHq4u/72025.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RJ HD
+http://cdn99.one:80/356195/FgHq4u/131163.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RJ HD
+http://new-pro.tv:8080/Fernando/123321/32915?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RJ SD
+http://cdn99.one:80/356195/FgHq4u/131182.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RPC Curitiba HD
+http://new-pro.tv:8080/Fernando/123321/33007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RPC TV Foz do Iguacu FHD
+http://cdn99.one:80/356195/FgHq4u/131149.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RPC TV Foz do Iguacu HD
+http://cdn99.one:80/356195/FgHq4u/72033.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo RPC TV SD
+http://new-pro.tv:8080/Fernando/123321/32916?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Rede Bahia FHD
+http://cdn99.one:80/356195/FgHq4u/131213.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Rede Bahia HD
+http://cdn99.one:80/356195/FgHq4u/131123.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Rede Bahia SD
+http://cdn99.one:80/356195/FgHq4u/72024.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Ribeirao Preto
+http://new-pro.tv:8080/Fernando/123321/32914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo SP FHD
+http://cdn99.one:80/356195/FgHq4u/72040.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo SP HD
+http://new-pro.tv:8080/Fernando/123321/32918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo SP HD
+http://cdn99.one:80/356195/FgHq4u/131212.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo SP SD
+http://cdn99.one:80/356195/FgHq4u/72042.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Sergipe
+http://new-pro.tv:8080/Fernando/123321/32917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Anhanguera HD
+http://cdn99.one:80/356195/FgHq4u/131166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Anhanguera SD
+http://cdn99.one:80/356195/FgHq4u/131124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Gazeta Vitoria FHD
+http://cdn99.one:80/356195/FgHq4u/72061.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Integracao Araxa FHD
+http://cdn99.one:80/356195/FgHq4u/131203.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Integracao Araxa HD
+http://cdn99.one:80/356195/FgHq4u/131126.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Integracao Juiz de Fora HD
+http://cdn99.one:80/356195/FgHq4u/72068.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Liberal Belem HD
+http://cdn99.one:80/356195/FgHq4u/72071.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Liberal Belem SD
+http://cdn99.one:80/356195/FgHq4u/72072.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Mirante Sao Luis FHD
+http://cdn99.one:80/356195/FgHq4u/131103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Mirante Sao Luis HD
+http://cdn99.one:80/356195/FgHq4u/72074.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Rio Sul HD
+http://cdn99.one:80/356195/FgHq4u/131128.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Santa Cruz FHD
+http://cdn99.one:80/356195/FgHq4u/135420.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Santa Cruz HD
+http://cdn99.one:80/356195/FgHq4u/135421.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Santa Cruz SD
+http://cdn99.one:80/356195/FgHq4u/135422.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Sergipe FHD
+http://cdn99.one:80/356195/FgHq4u/131156.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Sergipe HD
+http://cdn99.one:80/356195/FgHq4u/131181.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Sergipe SD
+http://cdn99.one:80/356195/FgHq4u/131139.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV TEM Bauru SD
+http://cdn99.one:80/356195/FgHq4u/131120.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV TEM Sao Jose do Rio Preto SD
+http://cdn99.one:80/356195/FgHq4u/131205.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV TEM Sorocaba SD
+http://cdn99.one:80/356195/FgHq4u/131194.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Tem Sorocaba
+http://new-pro.tv:8080/Fernando/123321/32922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Tribuna Santos
+http://new-pro.tv:8080/Fernando/123321/32923?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Tribuna Santos SD
+http://cdn99.one:80/356195/FgHq4u/131109.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Verdes Mares 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/72080.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Verdes Mares FHD
+http://cdn99.one:80/356195/FgHq4u/131161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Verdes Mares HD
+http://cdn99.one:80/356195/FgHq4u/72096.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo TV Verdes Mares SD
+http://cdn99.one:80/356195/FgHq4u/131137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103498.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob FHD
+http://cdn99.one:80/356195/FgHq4u/131153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72099.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob HD
+http://cdn99.one:80/356195/FgHq4u/72100.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob HD
+http://new-pro.tv:8080/Fernando/123321/32927?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloob SD
+http://cdn99.one:80/356195/FgHq4u/131117.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103497.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho FHD
+http://cdn99.one:80/356195/FgHq4u/90631.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/90630.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho HD
+http://cdn99.one:80/356195/FgHq4u/90629.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gloobinho SD
+http://cdn99.one:80/356195/FgHq4u/131173.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90245.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 FHD
+http://cdn99.one:80/356195/FgHq4u/72106.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72107.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD
+http://cdn99.one:80/356195/FgHq4u/72108.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD
+http://new-pro.tv:8080/Fernando/123321/32929?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 SD
+http://cdn99.one:80/356195/FgHq4u/72109.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90246.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD
+http://cdn99.one:80/356195/FgHq4u/72110.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72111.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://cdn99.one:80/356195/FgHq4u/72112.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://new-pro.tv:8080/Fernando/123321/32930?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 SD
+http://cdn99.one:80/356195/FgHq4u/72113.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90247.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Extreme HD
+http://new-pro.tv:8080/Fernando/123321/32939?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD
+http://cdn99.one:80/356195/FgHq4u/72118.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72119.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family FHD
+http://cdn99.one:80/356195/FgHq4u/72114.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72115.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family HD
+http://cdn99.one:80/356195/FgHq4u/72116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family HD
+http://new-pro.tv:8080/Fernando/123321/32931?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Family SD
+http://cdn99.one:80/356195/FgHq4u/72117.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD
+http://new-pro.tv:8080/Fernando/123321/32932?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD
+http://cdn99.one:80/356195/FgHq4u/72120.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103496.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Max 1 FHD
+http://cdn99.one:80/356195/FgHq4u/140504.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Max 1 HD
+http://cdn99.one:80/356195/FgHq4u/71904.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Max 1 SD
+http://cdn99.one:80/356195/FgHq4u/140510.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi FHD
+http://cdn99.one:80/356195/FgHq4u/72121.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72122.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi HD
+http://new-pro.tv:8080/Fernando/123321/32938?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi HD
+http://cdn99.one:80/356195/FgHq4u/72123.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Mundi SD
+http://cdn99.one:80/356195/FgHq4u/72124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103495.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90635.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus FHD
+http://cdn99.one:80/356195/FgHq4u/72125.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72126.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus HD
+http://cdn99.one:80/356195/FgHq4u/72127.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus HD
+http://new-pro.tv:8080/Fernando/123321/32933?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Plus SD
+http://cdn99.one:80/356195/FgHq4u/72128.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop FHD
+http://cdn99.one:80/356195/FgHq4u/72129.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72130.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop HD
+http://cdn99.one:80/356195/FgHq4u/72131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Pop SD
+http://cdn99.one:80/356195/FgHq4u/72132.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SD
+http://cdn99.one:80/356195/FgHq4u/72133.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature FHD
+http://cdn99.one:80/356195/FgHq4u/72134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature HD
+http://cdn99.one:80/356195/FgHq4u/72136.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature HD
+http://new-pro.tv:8080/Fernando/123321/32935?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Signature SD
+http://cdn99.one:80/356195/FgHq4u/72137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90636.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme FHD
+http://cdn99.one:80/356195/FgHq4u/72138.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72139.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme HD
+http://cdn99.one:80/356195/FgHq4u/72140.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme SD
+http://cdn99.one:80/356195/FgHq4u/72141.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/103493.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV FHD
+http://cdn99.one:80/356195/FgHq4u/72142.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV HD
+http://new-pro.tv:8080/Fernando/123321/32875?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV HD
+http://cdn99.one:80/356195/FgHq4u/72144.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV SD
+http://cdn99.one:80/356195/FgHq4u/72145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/1221/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/leila/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/1111/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/michele/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/1114/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/JOSEE/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
+http://168.205.87.198:8555/live/antony/1234/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90244.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History FHD
+http://cdn99.one:80/356195/FgHq4u/72146.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72147.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History HD
+http://new-pro.tv:8080/Fernando/123321/33023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History HD
+http://cdn99.one:80/356195/FgHq4u/72148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History SD
+http://cdn99.one:80/356195/FgHq4u/72149.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/90243.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID FHD
+http://cdn99.one:80/356195/FgHq4u/72150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/72151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID HD
+http://cdn99.one:80/356195/FgHq4u/72152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID Investigation Discovery HD
+http://new-pro.tv:8080/Fernando/123321/33024?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID SD
+http://cdn99.one:80/356195/FgHq4u/72153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local;Undefined",Itú TV,ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="Undefined",IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/1111/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/michele/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/aleixo/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/leila/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/1114/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/JOSEE/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/1221/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
+http://168.205.87.198:8555/live/antony/1234/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/320px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News (1080p)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Jovem Pan News 4K FHDR
+http://cdn99.one:80/356195/FgHq4u/134021.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Jovem Pan News FHD
+http://cdn99.one:80/356195/FgHq4u/134023.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Jovem Pan News FHD [H265]
+http://cdn99.one:80/356195/FgHq4u/134022.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Jovem Pan News HD
+http://cdn99.one:80/356195/FgHq4u/134024.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Jovem Pan News SD
+http://cdn99.one:80/356195/FgHq4u/134025.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/leila/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/antony/1234/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/aleixo/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/1114/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/1111/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/1221/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/michele/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
+http://168.205.87.198:8555/live/JOSEE/123456/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="Undefined",KURIAKOS CINE
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KpopTV Play (720p) [Not 24/7]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?checkedby:iptvcat.com
