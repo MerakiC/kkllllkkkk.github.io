@@ -854,3 +854,51 @@ https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8?checkedby:iptvcat.com
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SO" tvg-logo="http://shaashada.com/images/somalicable.png" group-title="索马里",Somali cable
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Africa TV 1
+http://new-pro.tv:8080/Fernando/123321/13714?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Africa TV 3
+http://new-pro.tv:8080/Fernando/123321/13712?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="苏丹",Africa TV2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="苏丹",Africa TV2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Al Hilal TV
+http://new-pro.tv:8080/Fernando/123321/63583?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Blue Nile 2 BNTV 2
+http://new-pro.tv:8080/Fernando/123321/20510?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",DW News
+http://new-pro.tv:8080/Fernando/123321/13974?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Elmourabiton TV
+http://new-pro.tv:8080/Fernando/123321/297788?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Khartoum TV
+http://new-pro.tv:8080/Fernando/123321/91378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Red Sea TV
+http://new-pro.tv:8080/Fernando/123321/297760?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan 24
+http://new-pro.tv:8080/Fernando/123321/221328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan Al Barlemania
+http://new-pro.tv:8080/Fernando/123321/91387?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan Al Istijaba TV
+http://new-pro.tv:8080/Fernando/123321/91382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan Bukra
+http://new-pro.tv:8080/Fernando/123321/63584?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan Drama
+http://new-pro.tv:8080/Fernando/123321/297715?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan El Mahadra
+http://new-pro.tv:8080/Fernando/123321/91385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan Music
+http://new-pro.tv:8080/Fernando/123321/91388?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan Now 24
+http://new-pro.tv:8080/Fernando/123321/99753?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudan TV
+http://new-pro.tv:8080/Fernando/123321/69839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Sudania 24 HD
+http://new-pro.tv:8080/Fernando/123321/91380?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",TASETI ANGHAM
+http://new-pro.tv:8080/Fernando/123321/221329?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",TASETI SPORT HD
+http://new-pro.tv:8080/Fernando/123321/221330?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Tebe 8
+http://new-pro.tv:8080/Fernando/123321/91391?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="苏丹",Tele Sahel
+http://new-pro.tv:8080/Fernando/123321/13965?checkedby:iptvcat.com
