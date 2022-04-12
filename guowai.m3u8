@@ -130,7 +130,7 @@ http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
 http://red.ipfox.org:8080/amer/amer1234/33112?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",AL Sharqyia HD
 http://red.ipfox.org:8080/amer/amer1234/33125?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",ALBAEENAH IRAQ
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",ALBAEENAH IR
 http://red.ipfox.org:8080/amer/amer1234/33116?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",ALTAGHIER TV HD
 http://red.ipfox.org:8080/amer/amer1234/33103?checkedby:iptvcat.com
