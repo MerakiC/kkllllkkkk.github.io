@@ -1,97 +1,98 @@
 #EXTM3U
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",AL HAYAT rtm
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",AL HAYAT rtm
 rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",AL24 News
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",AL24 News
 http://new-pro.tv:8080/Fernando/123321/100162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 2 -Canal-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 2 -Canal-
 http://red.ipfox.org:8080/amer/amer1234/34868?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 3 -Thalitha-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 3 -Thalitha-
 http://red.ipfox.org:8080/amer/amer1234/34869?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 4 -Tamazight-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 4 -Tamazight-
 http://red.ipfox.org:8080/amer/amer1234/34870?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 5 -Coran-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 5 -Coran-
 http://red.ipfox.org:8080/amer/amer1234/34871?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 6 -Sadissa-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 6 -Sadissa-
 http://red.ipfox.org:8080/amer/amer1234/34872?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 7 -Maarifa-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 7 -Maarifa-
 http://red.ipfox.org:8080/amer/amer1234/34873?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ALGERIE 8 -Edhakira-
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ALGERIE 8 -Edhakira-
 http://red.ipfox.org:8080/amer/amer1234/34874?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Al Bahia TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Al Bahia TV
 http://new-pro.tv:8080/Fernando/123321/6550?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Al Fajer 1 HD
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Al Fajer 1 HD
 http://new-pro.tv:8080/Fernando/123321/99752?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Al Hayat TV Algerie
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Al Hayat TV Algerie
 http://new-pro.tv:8080/Fernando/123321/99750?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Al istiqama
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Al istiqama
 http://red.ipfox.org:8080/amer/amer1234/34895?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algeria TV Coran [ Algerie 5 ]
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algeria TV Coran [ Algerie 5 ]
 http://new-pro.tv:8080/Fernando/123321/29128?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie 2 TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie 2 TV
 http://new-pro.tv:8080/Fernando/123321/105053?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie 3 TV [ A3 ]
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie 3 TV [ A3 ]
 http://new-pro.tv:8080/Fernando/123321/6440?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie 6 TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie 6 TV
 http://new-pro.tv:8080/Fernando/123321/71207?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie Edhakira TV8
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie Edhakira TV8
 http://new-pro.tv:8080/Fernando/123321/105055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie Elmaarifa TV7
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie Elmaarifa TV7
 http://new-pro.tv:8080/Fernando/123321/105054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie Tamazight TV4
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie Tamazight TV4
 http://new-pro.tv:8080/Fernando/123321/29129?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Algerie [ ENTV 1 ]
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Algerie [ ENTV 1 ]
 http://new-pro.tv:8080/Fernando/123321/100160?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",BAHIA TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",BAHIA TV
 http://red.ipfox.org:8080/amer/amer1234/34887?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",BEUR TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",BEUR TV
 http://red.ipfox.org:8080/amer/amer1234/34888?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Berbere TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Berbere TV
 http://new-pro.tv:8080/Fernando/123321/100161?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Beur TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Beur TV
 http://new-pro.tv:8080/Fernando/123321/6542?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Canal Algerie [ ENTV 2 ]
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Canal Algerie [ ENTV 2 ]
 http://new-pro.tv:8080/Fernando/123321/92247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Canal Atlas
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Canal Atlas
 http://red.ipfox.org:8080/amer/amer1234/34875?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",DIJAH  rtm
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",DIJAH  rtm
 rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Dijlah TV  jordan rtm
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Dijlah TV  jordan rtm
 rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ECHOROUK NEWS
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ECHOROUK NEWS
 http://red.ipfox.org:8080/amer/amer1234/34879?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ECHOROUK TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ECHOROUK TV
 http://red.ipfox.org:8080/amer/amer1234/34878?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",EL BILAD
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",EL BILAD
 http://red.ipfox.org:8080/amer/amer1234/34886?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",EL DJAZAIR N1
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",EL DJAZAIR N1
 http://red.ipfox.org:8080/amer/amer1234/34882?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",EL DJAZAIRIA TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",EL DJAZAIRIA TV
 http://red.ipfox.org:8080/amer/amer1234/34883?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",EL HEDDAF TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",EL HEDDAF TV
 http://red.ipfox.org:8080/amer/amer1234/34880?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",EL Watania TV Algeria
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",EL Watania TV Algeria
 http://new-pro.tv:8080/Fernando/123321/174731?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",ENNAHAR TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",ENNAHAR TV
 http://red.ipfox.org:8080/amer/amer1234/34876?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Echorouk News HD
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Echorouk News HD
 http://new-pro.tv:8080/Fernando/123321/72623?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Echorouk TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Echorouk TV
 http://new-pro.tv:8080/Fernando/123321/72624?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",El Adjwaa TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",El Adjwaa TV
 http://red.ipfox.org:8080/amer/amer1234/34894?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",El Bilad TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",El Bilad TV
 http://new-pro.tv:8080/Fernando/123321/6541?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",El Djazairia 1
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",El Djazairia 1
 http://new-pro.tv:8080/Fernando/123321/29130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",El Fadjr 2
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",El Fadjr 2
 http://new-pro.tv:8080/Fernando/123321/312207?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",EnNahar TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",EnNahar TV
 http://new-pro.tv:8080/Fernando/123321/5749?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",NUMIDIA TV HD
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",NUMIDIA TV HD
 http://red.ipfox.org:8080/amer/amer1234/34884?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",SAMIRA TV HD
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",SAMIRA TV HD
 http://red.ipfox.org:8080/amer/amer1234/34877?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Sahra TV Algeria
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Sahra TV Algeria
 http://new-pro.tv:8080/Fernando/123321/174732?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="阿尔及利亚" tvg-logo="" group-title="Undefined",Samira TV
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",Samira TV
 http://new-pro.tv:8080/Fernando/123321/6524?checkedby:iptvcat.com
+
