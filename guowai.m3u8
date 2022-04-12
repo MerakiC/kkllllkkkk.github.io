@@ -121,7 +121,6 @@ http://new-pro.tv:8080/Fernando/123321/2671?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/69848?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BH" tvg-logo="" group-title="巴林",Lualua TV
 http://new-pro.tv:8080/Fernando/123321/100044?checkedby:iptvcat.com
-#EXTM3U
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="伊拉克",12 Arabia
 http://new-pro.tv:8080/Fernando/123321/99652?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="伊拉克",ABN SAT (1280×720),ABNsat
