@@ -1178,3 +1178,71 @@ http://red.ipfox.org:8080/amer/amer1234/33786?checkedby:iptvcat.com
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/live&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="" group-title="阿拉伯联合酋长国",Україна 24 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",ADEN TV
+http://red.ipfox.org:8080/amer/amer1234/35117?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",AIC TV
+http://new-pro.tv:8080/Fernando/123321/67627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Aden TV
+http://new-pro.tv:8080/Fernando/123321/10610?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Eiman TV
+http://new-pro.tv:8080/Fernando/123321/99074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Erth Alnabawi TV
+http://new-pro.tv:8080/Fernando/123321/45276?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Ghad Al Mushreq
+http://new-pro.tv:8080/Fernando/123321/69642?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Hawyah TV
+http://new-pro.tv:8080/Fernando/123321/155218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Lahdah
+http://new-pro.tv:8080/Fernando/123321/155214?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Mahrah HD
+http://new-pro.tv:8080/Fernando/123321/99077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="也门",Al Masirah
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="也门",Al Masirah Mubacher
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Masirah Mubasher TV
+http://new-pro.tv:8080/Fernando/123321/38637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Masirah TV
+http://new-pro.tv:8080/Fernando/123321/33765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Saeedah TV
+http://new-pro.tv:8080/Fernando/123321/42188?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Sahat
+http://new-pro.tv:8080/Fernando/123321/155217?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Shareyah
+http://new-pro.tv:8080/Fernando/123321/99427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Al Yemen HD
+http://new-pro.tv:8080/Fernando/123321/69628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",AlSaeedah
+http://red.ipfox.org:8080/amer/amer1234/35113?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="也门",Alghad Almushreq
+http://82.212.74.3:8000/live/7512.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Almahriah
+http://red.ipfox.org:8080/amer/amer1234/35109?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",BELQEES
+http://red.ipfox.org:8080/amer/amer1234/35112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Belqees TV
+http://new-pro.tv:8080/Fernando/123321/99075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Gil Al Mostaqbal
+http://new-pro.tv:8080/Fernando/123321/297727?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Hadramaut TV
+http://new-pro.tv:8080/Fernando/123321/67628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Sheba TV
+http://new-pro.tv:8080/Fernando/123321/14261?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Suhail TV
+http://new-pro.tv:8080/Fernando/123321/45275?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Suhail TV
+http://red.ipfox.org:8080/amer/amer1234/35116?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",YEMEN SHABAB
+http://red.ipfox.org:8080/amer/amer1234/35108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Yemen
+http://red.ipfox.org:8080/amer/amer1234/35115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Yemen Documentary
+http://new-pro.tv:8080/Fernando/123321/69625?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Yemen Education TV
+http://new-pro.tv:8080/Fernando/123321/69626?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Yemen Shabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Yemen Shabab
+http://new-pro.tv:8080/Fernando/123321/99073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="也门",Yemen Today HD
+http://new-pro.tv:8080/Fernando/123321/2572?checkedby:iptvcat.com
