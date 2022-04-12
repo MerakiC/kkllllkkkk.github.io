@@ -678,3 +678,39 @@ http://red.ipfox.org:8080/amer/amer1234/34856?checkedby:iptvcat.com
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="摩洛哥",Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="阿曼",Al Istiqama TV,Al-Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Al Istiqama TV
+http://new-pro.tv:8080/Fernando/123321/100332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/onPpSSC.png" group-title="阿曼",Al-Istiqama,Al-Istiqama TV,OM | Al-Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="阿曼",OM | Oman TV,Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/sRlAGQD.png" group-title="阿曼",OM | Oman TV Cultural,Oman TV Cultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/stADjXC.png" group-title="阿曼",OM | Oman TV Mubashir,Oman TV Mubashir
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/yaWTUE6.png" group-title="阿曼",Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="阿曼",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="阿曼",Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="阿曼",Oman TV Cultural
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV Culture HD
+http://new-pro.tv:8080/Fernando/123321/69842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV Culture HD
+http://red.ipfox.org:8080/amer/amer1234/35080?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV General HD
+http://new-pro.tv:8080/Fernando/123321/69843?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV General HD
+http://red.ipfox.org:8080/amer/amer1234/35082?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV Live HD
+http://new-pro.tv:8080/Fernando/123321/99708?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV Live HD
+http://red.ipfox.org:8080/amer/amer1234/35081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="阿曼",Oman TV Mubashir
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="阿曼",Oman TV Sport HD
+http://red.ipfox.org:8080/amer/amer1234/35079?checkedby:iptvcat.com
