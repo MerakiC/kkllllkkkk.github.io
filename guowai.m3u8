@@ -848,3 +848,9 @@ http://new-pro.tv:8080/Fernando/123321/99462?checkedby:iptvcat.com
 http://red.ipfox.org:8080/amer/amer1234/33225?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="" group-title="沙特阿拉伯",iEN TV HD
 http://new-pro.tv:8080/Fernando/123321/110739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SO" tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="索马里",Kalsan TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="索马里",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SO" tvg-logo="http://shaashada.com/images/somalicable.png" group-title="索马里",Somali cable
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?checkedby:iptvcat.com
