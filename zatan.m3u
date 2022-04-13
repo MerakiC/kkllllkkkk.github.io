@@ -77,20 +77,6 @@ http://nb.iptv88888.xyz/hls/hkccj.m3u8
 http://nb.iptv88888.xyz/hls/viutv.m3u8
 #EXTINF:-1 ,VIUTV6
 http://nb.iptv88888.xyz/hls/viutv6.m3u8
-#EXTINF:-1 ,明珠台
-http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 ,無綫新聞台
-http://61.238.6.49:8001/bysid/83
-#EXTINF:-1 ,無綫財經 · 資訊台
-http://61.238.6.49:8001/bysid/85
-#EXTINF:-1 ,翡翠台
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 ,ViuTVsix
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 ,ViuTV
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 ,J2台
-http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 ,民视
 http://nb.iptv88888.xyz/hls/minshi.m3u8
 #EXTINF:-1 ,民视新闻
