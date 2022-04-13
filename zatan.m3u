@@ -153,16 +153,6 @@ http://182.151.211.171:808/hls/58/index.m3u8
 http://182.151.211.171:808/hls/50/index.m3u8
 #EXTINF:-1 ,凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
-#EXTINF:-1 ,无线新闻台
-http://ye23.win/iptv/tvb.php?id=1
-#EXTINF:-1 ,无线财经台
-http://ye23.win/iptv/tvb.php?id=2
-#EXTINF:-1 ,无线LIVE台
-http://ye23.win/iptv/tvb.php?id=3
-#EXTINF:-1 ,无线新闻台4
-http://ye23.win/iptv/tvb.php?id=4
-#EXTINF:-1 ,无线新闻台5
-http://ye23.win/iptv/tvb.php?id=5
 #EXTINF:-1 ,now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 ,Now Sports Prime
