@@ -57,109 +57,94 @@ http://120.84.96.46:808/hls/32/index.m3u8
 http://120.84.96.47:808/hls/32/index.m3u8
 #EXTINF:-1 ,东森电影
 http://120.84.96.130:808/hls/32/index.m3u8
-#EXTINF:-1 ,TVB J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 ,TVB新闻
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1 ,明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 ,翡翠台(繁体)
-http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 ,翡翠台(简体)
-http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 ,翡翠台海外版(繁体)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 ,翡翠台海外版(简体)
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 ,J2
-http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 ,J2(2)
-http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 ,无线新闻台
-http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 ,明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 ,无线财经资讯台
-http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 ,无线财经资讯台(2)
-http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 ,RTHK31
-http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 ,RTHK32
-http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 ,香港国际财经台
-http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 ,香港开电视
-http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 ,香港HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,TVBS亚洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 ,TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 ,中天新闻
-http://iptv.tvfix.org/hls/ztxw.m3u8
-#EXTINF:-1 ,美亚电影台
-http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 ,美亚电影台(普通话)
-http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 ,天映经典
-http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 ,天映经典(普通话)
-http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 ,TVB为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 ,TVB星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 ,TVB功夫台
-http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 ,TVB功夫(普通话)
-http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 ,TVB 经典台
-http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 ,BBC
-http://iptv.tvfix.org/hls/tracks-v2a1/mono.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 ,凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,中天娱乐
-http://60.250.91.85:8585/.m3u8 
-#EXTINF:-1 ,华视新闻
-http://60.250.91.85:8538/.m3u8
-#EXTINF:-1 ,J2
-http://120.84.96.33:808/hls/86/index.m3u8
-#EXTINF:-1 ,天映经典
-http://120.84.96.33:808/hls/86/index.m3u8
-#EXTINF:-1 ,东森电影
-http://120.84.96.32:808/hls/86/index.m3u8
-#EXTINF:-1 ,东森洋片
-http://120.84.96.32:808/hls/86/index.m3u8
-#EXTINF:-1 ,龙祥时代
-http://120.84.96.32:808/hls/86/index.m3u8
-#EXTINF:-1 ,东森电影
-http://120.84.96.32:808/hls/86/index.m3u8
-#EXTINF:-1 ,东森洋片
-http://120.84.96.32:808/hls/86/index.m3u8
-#EXTINF:-1 ,龙祥时代
-http://120.84.96.32:808/hls/86/index.m3u8
-#EXTINF:-1 ,四川电影
-http://182.151.211.171:808/hls/58/index.m3u8
-#EXTINF:-1 ,四川经济
-http://182.151.211.171:808/hls/50/index.m3u8
-#EXTINF:-1 ,凤凰电影
-http://iptv.tvfix.org/hls/fhdy.m3u8
-#EXTINF:-1 ,now新闻台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 ,Now Sports Prime
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 ,香港国际财经台
-http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-#EXTINF:-1 ,无线新闻台
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 ,無線電視J1台
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+翡翠台,http://nb.iptv88888.xyz/hls/feicui.m3u8
+J2,http://nb.iptv88888.xyz/hls/longtvj2.m3u8
+J5,http://nb.iptv88888.xyz/hls/longj5.m3u8
+pearl,http://nb.iptv88888.xyz/hls/pearl.m3u8
+互动新闻,http://nb.iptv88888.xyz/hls/inews.m3u8
+有线新闻,http://nb.iptv88888.xyz/hls/hkcxw.m3u8
+有线娱乐,http://nb.iptv88888.xyz/hls/hkcyule.m3u8
+有线财经,http://nb.iptv88888.xyz/hls/hkccj.m3u8
+VIUTV,http://nb.iptv88888.xyz/hls/viutv.m3u8
+VIUTV6,http://nb.iptv88888.xyz/hls/viutv6.m3u8
+明珠台,http://61.238.6.49:8001/bysid/2
+無綫新聞台,http://61.238.6.49:8001/bysid/83
+無綫財經 · 資訊台,http://61.238.6.49:8001/bysid/85
+翡翠台,http://61.238.6.49:8000/bysid/1
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+ViuTV,http://61.238.6.49:8000/bysid/99
+J2台,http://61.238.6.49:8001/bysid/82
+民视,http://nb.iptv88888.xyz/hls/minshi.m3u8
+民视新闻,http://nb.iptv88888.xyz/hls/msxinwen.m3u8
+民视第一,http://nb.iptv88888.xyz/hls/msone.m3u8
+民视台湾,http://nb.iptv88888.xyz/hls/mstaiwan.m3u8
+华视,http://nb.iptv88888.xyz/hls/huashi.m3u8
+华视新闻,http://nb.iptv88888.xyz/hls/hsnews.m3u8
+华视教育,http://nb.iptv88888.xyz/hls/hsedu.m3u8
+公视,http://nb.iptv88888.xyz/hls/gongshi.m3u8
+公視2,http://nb.iptv88888.xyz/hls/gongshi2.m3u8
+公視3,http://nb.iptv88888.xyz/hls/gongshi3.m3u8
+台视,http://nb.iptv88888.xyz/hls/taishi.m3u8
+台视综合,http://nb.iptv88888.xyz/hls/ttvzonghe.m3u8
+大爱,http://nb.iptv88888.xyz/hls/daaiws.m3u8
+台视新闻,http://nb.iptv88888.xyz/hls/tsxinwen.m3u8
+中视,http://nb.iptv88888.xyz/hls/zhongshi.m3u8
+中视经典,http://nb.iptv88888.xyz/hls/zsjingdian.m3u8
+中视新闻,http://nb.iptv88888.xyz/hls/zsxinwen.m3u8
+中视箐采,http://nb.iptv88888.xyz/hls/zsqingcai.m3u8
+TVBS,http://nb.iptv88888.xyz/hls/tvbsm.m3u8
+TVBS新闻,http://nb.iptv88888.xyz/hls/tvbsxwm.m3u8
+TVBS欢乐,http://nb.iptv88888.xyz/hls/tvbshuanle.m3u8
+中天综合,http://nb.iptv88888.xyz/hls/ztzonghe.m3u8
+中天娱乐,http://nb.iptv88888.xyz/hls/ztyule.m3u8
+八大综合,http://nb.iptv88888.xyz/hls/bdzonghe.m3u8
+八大第一,http://nb.iptv88888.xyz/hls/bddiyi.m3u8
+八大戏剧,http://nb.iptv88888.xyz/hls/bdxiju.m3u8
+八大娱乐,http://nb.iptv88888.xyz/hls/bdyule.m3u8
+东森综合,http://nb.iptv88888.xyz/hls/dongsenzh.m3u8
+东森戏剧,http://nb.iptv88888.xyz/hls/dsxiju.m3u8
+东森电影,http://nb.iptv88888.xyz/hls/dsmovie.m3u8
+东森超视,http://nb.iptv88888.xyz/hls/dschaoshi.m3u8
+东森洋片,http://nb.iptv88888.xyz/hls/dsyangpian.m3u8
+东森新闻,http://nb.iptv88888.xyz/hls/dsxinwen.m3u8
+东森财经,http://nb.iptv88888.xyz/hls/dscaiji.m3u8
+东森亚洲,http://nb.iptv88888.xyz/hls/dsyazhou.m3u8
+纬来综合,http://nb.iptv88888.xyz/hls/wlzonghe.m3u8
+纬来戏剧,http://nb.iptv88888.xyz/hls/wlxiju.m3u8
+纬来精采,http://nb.iptv88888.xyz/hls/wljingcai.m3u8
+纬来电影,http://nb.iptv88888.xyz/hls/wlmovie.m3u8
+纬来日本,http://nb.iptv88888.xyz/hls/wljpan.m3u8
+纬来体育,http://nb.iptv88888.xyz/hls/wltiyu.m3u8
+三立综合,http://nb.iptv88888.xyz/hls/slzonghe.m3u8
+三立都会,http://nb.iptv88888.xyz/hls/sldouhui.m3u8
+三立戏剧,http://nb.iptv88888.xyz/hls/slxiju.m3u8
+三立台湾,http://nb.iptv88888.xyz/hls/sltaiwan.m3u8
+三立新闻,http://nb.iptv88888.xyz/hls/slxinwen.m3u8
+ELTA综合,http://nb.iptv88888.xyz/hls/elzonghe.m3u8
+ELTA影剧,http://nb.iptv88888.xyz/hls/elyingju.m3u8
+ELTA体育1,http://nb.iptv88888.xyz/hls/eltiyu1.m3u8
+ELTA体育2,http://nb.iptv88888.xyz/hls/eltiyu2.m3u8
+ELTA体育3,http://nb.iptv88888.xyz/hls/eltiyu3.m3u8
+寰宇新闻,http://nb.iptv88888.xyz/hls/huanyu1.m3u8
+寰宇台湾,http://nb.iptv88888.xyz/hls/huanyu2.m3u8
+非凡新闻,http://nb.iptv88888.xyz/hls/ffxinwen.m3u8
+年代新闻,http://nb.iptv88888.xyz/hls/ndxinwen.m3u8
+壹新闻,http://nb.iptv88888.xyz/hls/yixinwen.m3u8
+龙翔电影,http://nb.iptv88888.xyz/hls/lxtime.m3u8
+星卫电影,http://nb.iptv88888.xyz/hls/xwtime.m3u8
+卫视电影,http://nb.iptv88888.xyz/hls/wstime.m3u8
+天映频道,http://nb.iptv88888.xyz/hls/tianyingpd.m3u8
+天映经典,http://nb.iptv88888.xyz/hls/tianyingjd.m3u8
+mtvlive,http://nb.iptv88888.xyz/hls/mtvlive.m3u8
+国家地理,http://nb.iptv88888.xyz/hls/natgeo.m3u8
+地理人文,http://nb.iptv88888.xyz/hls/dilipeople.m3u8
+地理野生,http://nb.iptv88888.xyz/hls/geowild.m3u8
+龙华偶像,http://nb.iptv88888.xyz/hls/longhuaox.m3u8
+龙华电影,http://nb.iptv88888.xyz/hls/longhuamovie.m3u8
+龙华洋片,http://nb.iptv88888.xyz/hls/longhuayangpian.m3u8
+龙华戏剧,http://nb.iptv88888.xyz/hls/longhuaxiju.m3u8
+靖天电影,http://nb.iptv88888.xyz/hls/jtmovie.m3u8
+靖天映画,http://nb.iptv88888.xyz/hls/jtyinghua.m3u8
+靖天国际,http://nb.iptv88888.xyz/hls/jtguoji.m3u8
+靖天卡通,http://nb.iptv88888.xyz/hls/jtkatong.m3u8
+寰宇财经,http://nb.iptv88888.xyz/hls/hycaiji.m3u8
