@@ -10,17 +10,13 @@ http://120.84.96.32:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片
 http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.222:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片
-http://120.84.96.33:808/hls/33/index.m3u8
-#EXTINF:-1 ,东森洋片台
-http://120.84.96.126:808/hls/33/index.m3u8
-#EXTINF:-1 ,东森洋片台
 http://120.84.96.20:808/hls/33/index.m3u8
-#EXTINF:-1 ,东森洋片台
-http://120.84.96.27:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片台
 http://120.84.96.29:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片台
-http://120.84.96.32:808/hls/33/index.m3u8
+http://120.84.96.30:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片台
+http://120.84.96.31:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片台
 http://120.84.96.33:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片台
@@ -32,7 +28,13 @@ http://120.84.96.46:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片台
 http://120.84.96.47:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森洋片台
-http://120.84.96.130:808/hls/33/index.m3u8
+http://120.84.96.76:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片台
+http://120.84.96.88:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片台
+http://120.84.96.98:808/hls/33/index.m3u8
+#EXTINF:-1 ,东森洋片台
+http://120.84.96.126:808/hls/33/index.m3u8
 #EXTINF:-1 ,东森电影
 http://120.84.96.20:808/hls/32/index.m3u8
 #EXTINF:-1 ,东森电影
