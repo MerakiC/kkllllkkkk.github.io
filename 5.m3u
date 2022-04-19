@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",AL HAYAT rt
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",AL HAYAT rtm
 rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="阿尔及利亚",AL24 News
 http://new-pro.tv:8080/Fernando/123321/100162?checkedby:iptvcat.com
