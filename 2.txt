@@ -536,3 +536,6 @@ Now直播,http://51.222.193.142:10011/8
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+星影台,p2p://ns2.hellotvvod.com:9906/21bf4f23b2b74d7f871ef38e773bfaa2
+TVB翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
+包谷,p2p://ns2.hellotvvod.com:9906/c0524f95fca1493f831b1db1884c87df
