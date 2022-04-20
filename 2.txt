@@ -1,5 +1,4 @@
-中国,#country#
-台湾,#genre#
+港澳台,#genre#
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 东森新闻,http://1080.youkucdn.live:25461/live/66325546/123/3904.m3u8
 东森洋片,http://120.84.96.130:808/hls/33/index.m3u8
