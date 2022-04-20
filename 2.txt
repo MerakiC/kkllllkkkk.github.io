@@ -163,3 +163,4 @@ TVB星河,http://113.64.147.218:808/hls/35/index.m3u8
 KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 CIBN微电影,http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
 咪咕云上电影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
+电影,http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
