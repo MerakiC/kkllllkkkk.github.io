@@ -562,6 +562,47 @@ DaAi2,http://61.221.81.93:8088/hls/75/817/ch60.m3u8
 亚洲旅游,http://61.221.81.93:8088/hls/76/818/ch61.m3u8
 寰宇新闻,http://61.221.81.93:8088/hls/76/818/ch62.m3u8
 中天新闻,http://61.221.81.93:8088/hls/78/80/ch63max.m3u8
+HBO HD,http://twxui.dyndns.tv:8881/hbohd
+HBO 原创,http://twxui.dyndns.tv:8881/hboyc
+Star world,http://twxui.dyndns.tv:8881/starworld
+年代MUCH,http://twxui.dyndns.tv:8881/ndmuch
+八大戲劇台,http://twxui.dyndns.tv:8881/bdxj
+東森幼幼,http://twxui.dyndns.tv:8881/dsyy
+公视3,http://twxui.dyndns.tv:8881/gs3hd
+东风37,http://twxui.dyndns.tv:9991/df37
+八大第一,http://twxui.dyndns.tv:9991/bddy
+公视,http://twxui.dyndns.tv:9991/gshd
+緯來电影,http://twxui.dyndns.tv:9991/wldy
+TVBS新聞台,rtmp://59.124.75.138/sat/tv551
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+華視HD,rtmp://59.124.75.138/sat/tv111
+民視HD,rtmp://59.124.75.138/sat/tv051
+台視HD,rtmp://59.124.75.138/sat/tv071
+中視HD,rtmp://59.124.75.138/sat/tv091
+東森财经新闻,rtmp://59.124.75.138/sat/tv571
+纬来育樂HD,rtmp://59.124.75.138/sat/tv701
+纬来精采HD,rtmp://59.124.75.138/sat/md031
+纬来日本HD,rtmp://59.124.75.138/sat/tv771
+纬来体育HD,rtmp://59.124.75.138/sat/tv721
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+momo综合台,rtmp://59.124.75.138/sat/tv761
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
+博斯網球,rtmp://59.124.75.138/sat/md041
+ELTA體育1台,rtmp://59.124.75.138/sat/md051
+东森新闻,http://61.221.81.93:8088/hls/63/805/ch10.m3u8
+三立新闻,http://61.221.81.93:8088/hls/65/807/ch18.m3u8
+壹新闻,http://61.221.81.93:8088/hls/66/808/ch24.m3u8
+民视新闻,http://61.221.81.93:8088/hls/73/815/ch51.m3u8
+寰宇新闻,http://61.221.81.93:8088/hls/76/818/ch62.m3u8
+中天新闻,http://61.221.81.93:8088/hls/78/80/ch63max.m3u8
+动物星球,http://61.221.81.93:8088/hls/70/812/ch37.m3u8
+台视,http://61.221.81.93:8088/hls/72/814/ch46.m3u8
+中视,http://61.221.81.93:8088/hls/72/814/ch47.m3u8
+华视,http://61.221.81.93:8088/hls/72/814/ch48.m3u8
+民视,http://61.221.81.93:8088/hls/73/815/ch49.m3u8
+公视,http://61.221.81.93:8088/hls/73/815/ch50.m3u8
+
 少儿,#genre#
 金鹰卡通,http://120.84.96.20:808/hls/50/index.m3u8
 金鹰卡通,http://120.84.96.29:808/hls/50/index.m3u8
