@@ -1568,6 +1568,26 @@ CETV-4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3
 CETV-4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225969/index.m3u8?fmt=ts2hls
 CETV-4,http://183.207.248.166/ott.js.chinamobile.com/PLTV/3/224/3221227028/index.m3u8
 CETV-早教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=ts2hls
+CCTV-第一剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV-风云剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV-怀旧剧场高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-风云音乐高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV-世界地理高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-兵器科技高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV-风云足球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV-高尔夫·网球高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV-女性时尚高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV-央视文化精品高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV-电视指南高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV-卫生健康高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CGTN-英语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+CGTN-法语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2010153503.m3u8
+CGTN-俄语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2010152603.m3u8
+CGTN-阿语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2010155203.m3u8
+CGTN-西语高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2010152503.m3u8
+CGTN-外语纪录高清,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2010155403.m3u8
+洛陽綜合頻道 ,http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
 地方,#genre#
 安庆公共,http://hwzbout.yunshicloud.com/0spq8i/72wt2h.m3u8
 澳门澳视卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
