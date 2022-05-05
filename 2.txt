@@ -464,7 +464,6 @@ CINEMAX,http://50.7.218.42:8278/cinemax_twn/playlist.m3u8?tid=MEAE14175772141757
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-
 少儿,#genre#
 金鹰卡通,http://120.84.96.20:808/hls/50/index.m3u8
 金鹰卡通,http://120.84.96.29:808/hls/50/index.m3u8
