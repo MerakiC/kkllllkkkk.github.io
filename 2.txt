@@ -7259,6 +7259,20 @@ SiTV全纪实,http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/322122777
 百视通纪录 576,http://39.135.55.105:6610/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
 百视通超级体育 576,http://39.135.55.105:6610/PLTV/88888888/224/3221227052/index.m3u8?servicetype=1
 加密一区_298,#genre#
+彩虹e台,mitv://ns2.hellotvvod.com:9906/3fb96c0e3402489ea71b09b4665519e7.ts
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/2a020e712d4d436691da2ea78eafebdc.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/d6795ca162e34cb89be51befc6dfe594.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/d3ece42c680544de95e35183ac5b5389.ts
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/6a4958e7000e4e0db866b28a0790f477.ts
+松視1台,mitv://ns2.hellotvvod.com:9906/5525509395864b4697e17d784c856aac.ts
+松視2台,mitv://ns2.hellotvvod.com:9906/f99730c3755b4c0898176cb31cdbd7a9.ts
+潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/0f5d661ffac94a6c9d1e3677ad288827.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/84371c47b4b54e36b0065d3a2a773379.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/1362bb778dae475288955810c1ab2aaa.ts
+HOT,mitv://ns2.hellotvvod.com:9906/82d829e45ddb4433ae62280e78e84f64.ts
+松視3台,mitv://ns2.hellotvvod.com:9906/eddc3d313451476097ea7506d1d0867d.ts
+JStar極限台,mitv://ns2.hellotvvod.com:9906/9279f96ca28d4a47b1926bef15c0a082.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/338ec38c41e94ac2a7a556096b6964ea.ts
 彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
