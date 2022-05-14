@@ -1,3 +1,19 @@
+新增分类
+翡翠台HD,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8?wsSecret=f28031532dd9afc281971a07f485e729&wsTime=57af0606
+翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
+翡翠台,http://cg2.gcable.cn:9090/live/xgfeicui_1500.m3u8
+凤凰资讯,http://222.191.24.5:6610/2/2/ch00000090990000001309/index.m3u8?ispcode=3
+凤凰中文,http://222.191.24.5:6610/2/2/ch00000090990000001308/index.m3u8?ispcode=3
+香港卫视,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+香港有线Sports.1,http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809840-1479810140-6a3b7e91b7abb4071fdb786392aab011-8d41304380e0a66_766-03/ch164_h.live/chunklist_w2024052072.m3u8?uid=8169adc297a66a924239d20609ba947f
+香港有线202HD,http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479808836-1479809136-9ba719f8a20a5c2db06f427f3d4544ce-8d41301e1a4911a_5ec-03/hd202_h.live/chunklist_w303611369.m3u8?uid=8169adc297a66a924239d20609ba947fHKChd203
+香港有线201HD,http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479807195-1479807495-9e6dabffed40667db0f20c19ecf45106-8d412fe0f261630_67a-03/hd201_h.live/chunklist_w386011701.m3u8?uid=8169adc297a66a924239d20609ba947f
+香港有线18台,http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809403-1479809703-4a485eef3a5743dab91e103ec2265bfb-8d4130333bb4786_778-03/ch18_h.live/chunklist_w1965176326.m3u8?uid=8169adc297a66a924239d20609ba947f
+香港有线直播新闻台,http://61.10.2.137/liveJoemud_ts/_definst_/4-2a021def-1479808152-1479808452-b129fc30c9584721a3f921fda468fa82-8d4130049cc4d7a_83b-03/Stream1_h/chunklist_w355088309.m3u8
+TVBS 新闻台 HD,http://suntv.pub/newtv/api/mdtv2.do?token=25c9364d49d8b799&guid=55ee4ae1d9265367
+TVBS 台 HD,http://suntv.pub/newtv/api/mdtv2.do?token=25c9364d49d8b799&guid=5c592d72b2a76db5
+TVB互动新闻,http://pull.a8.com/live/tvinews.flv
+星卫电影台 HD,http://suntv.pub/newtv/api/mdtv2.do?token=25c9364d49d8b799&guid=052b220db63b4307
 少儿,#genre#
 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/915056237901456bad0378ea0711cb8e.ts
 靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/48c709d097954f2f9d1a87fcc235caea.ts
