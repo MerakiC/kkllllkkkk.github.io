@@ -5,128 +5,108 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: YouTube梦歌|Netflix_1, server: cm.chashao.buzz, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_2, server: cm1.chashao.buzz, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_3, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_4, server: ijkajhkfajas.tk, port: 13640, type: trojan, password: 30db9cbb-1e33-41bb-812a-b3fc5db2fd9f, sni: ijkajhkfajas.tk, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_5, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_6, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_1, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_2, server: azz1.500ml.top, port: 61016, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_3, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_4, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_5, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_6, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_7, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_8, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_8, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_9, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_10, server: cu.chashao.buzz, port: 21207, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_11, server: cm.chashao.buzz, port: 21207, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_12, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_13, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_14, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_15, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_16, server: cm.chashao.buzz, port: 21211, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_17, server: cu.chashao.buzz, port: 21216, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_18, server: cu.chashao.buzz, port: 21214, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_19, server: la1.api-aws.com, port: 443, type: trojan, password: 1f9e7c79-ce39-44f3-bdbd-90ea117629b3, sni: la1.api-aws.com, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_20, server: cu.chashao.buzz, port: 21215, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_21, server: bb1.158801.xyz, port: 22541, type: trojan, password: 775ed92a-4c87-4111-a6cf-fc5e0ac18ae5, sni: bb1.158801.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_22, server: cu.chashao.buzz, port: 21211, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_23, server: cm.chashao.buzz, port: 21205, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_24, server: cm.chashao.buzz, port: 21206, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_25, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_26, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_27, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_28, server: cm.chashao.buzz, port: 21208, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_29, server: cm.chashao.buzz, port: 21208, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_30, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_31, server: bb1.158801.xyz, port: 80, type: vmess, uuid: 775ed92a-4c87-4111-a6cf-fc5e0ac18ae5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}, udp: true}
-  - {name: YouTube梦歌|Netflix_32, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_33, server: cu.chashao.buzz, port: 21205, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_34, server: cu.chashao.buzz, port: 21206, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_35, server: cu.chashao.buzz, port: 21213, type: ss, cipher: chacha20-ietf-poly1305, password: 920cdf3a-0f2e-4bf6-a586-a20af99bb41e, udp: true}
-  - {name: YouTube梦歌|Netflix_36, server: bb1.158801.xyz, port: 22544, type: trojan, password: 775ed92a-4c87-4111-a6cf-fc5e0ac18ae5, sni: bb1.158801.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_37, server: bb1.158801.xyz, port: 22542, type: trojan, password: 775ed92a-4c87-4111-a6cf-fc5e0ac18ae5, sni: bb1.158801.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_38, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_39, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_40, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_41, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_42, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_43, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_44, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_45, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_46, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_47, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_48, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_49, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_50, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_51, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_52, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_53, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_54, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_55, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_56, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_57, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_58, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_59, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_60, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_61, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_62, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_63, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_64, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_65, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_10, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_11, server: v2.ssrsub.com, port: 443, type: vmess, uuid: 620d82a8-22ba-4945-90ba-a2bed1cde1d2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v3/download.getFile, headers: {Host: v2.ssrsub.com}}, udp: true}
+  - {name: YouTube梦歌|Netflix_12, server: jike1-gzyd.jiserver.xyz, port: 39557, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: t.me/mengge88888888}}, udp: true}
+  - {name: YouTube梦歌|Netflix_13, server: shlt.jiserver.xyz, port: 39395, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: t.me/mengge88888888}}, udp: true}
+  - {name: YouTube梦歌|Netflix_14, server: jike1-gzyd.jiserver.xyz, port: 39595, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: t.me/mengge88888888}}, udp: true}
+  - {name: YouTube梦歌|Netflix_15, server: azz1.500ml.top, port: 61013, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_16, server: azz1.500ml.top, port: 61017, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_17, server: azz1.500ml.top, port: 61018, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_18, server: jike1-gzyd.jiserver.xyz, port: 38559, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: jike1-gzyd.jiserver.xyz}}, udp: true}
+  - {name: YouTube梦歌|Netflix_19, server: shlt.jiserver.xyz, port: 39411, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: t.me/mengge88888888}}, udp: true}
+  - {name: YouTube梦歌|Netflix_20, server: azz1.500ml.top, port: 61007, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_21, server: azz1.500ml.top, port: 61008, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_22, server: uscera1.moonfree.top, port: 20008, type: vmess, uuid: 6e9eeae6-c3d1-439e-9f7a-213fe09b2dbe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: v6d1.moonfree.top}}, udp: true}
+  - {name: YouTube梦歌|Netflix_23, server: azz1.500ml.top, port: 61007, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_24, server: jike1-gzyd.jiserver.xyz, port: 39573, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: jike1-gzyd.jiserver.xyz}}, udp: true}
+  - {name: YouTube梦歌|Netflix_25, server: azz1.500ml.top, port: 61008, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_26, server: jike1-gzyd.jiserver.xyz, port: 38555, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: t.me/mengge88888888}}, udp: true}
+  - {name: YouTube梦歌|Netflix_27, server: azz1.500ml.top, port: 61016, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_28, server: oz.moonfree.top, port: 443, type: vmess, uuid: 6e9eeae6-c3d1-439e-9f7a-213fe09b2dbe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: oz.moonfree.top}}, udp: true}
+  - {name: YouTube梦歌|Netflix_29, server: azz1.500ml.top, port: 61015, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_30, server: azz1.500ml.top, port: 61015, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_31, server: qd.500ml.top, port: 61004, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_32, server: qd.500ml.top, port: 61003, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_33, server: qd.500ml.top, port: 61002, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_34, server: qd.500ml.top, port: 61001, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_35, server: qd.500ml.top, port: 61003, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_36, server: qd.500ml.top, port: 61001, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_37, server: azz1.500ml.top, port: 61013, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: azz1.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_38, server: qd.500ml.top, port: 61005, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_39, server: gzn.500ml.top, port: 61014, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: gzn.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_40, server: qd.500ml.top, port: 61005, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_41, server: qd.500ml.top, port: 61002, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_42, server: gzn.500ml.top, port: 61014, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: gzn.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_43, server: qd.500ml.top, port: 61006, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_44, server: hncu.relay.qchwnd.moe, port: 44611, type: trojan, password: de9361ff-23f3-41f1-b200-f4d8eb6ce87c, sni: hncu.relay.qchwnd.moe, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_45, server: qd.500ml.top, port: 61006, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_46, server: nnv.chitacdn.xyz, port: 54242, type: vmess, uuid: f2393d82-94c4-4b12-8267-293a7500e487, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_47, server: xiaocai.fly.dev, port: 443, type: vmess, uuid: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: 24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, headers: {Host: xiaocai.fly.dev}}, udp: true}
+  - {name: YouTube梦歌|Netflix_48, server: t1tw.500ml.top, port: 504, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: t1tw.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_49, server: t1tw.500ml.top, port: 504, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: t1tw.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_50, server: sh.moonfree.top, port: 11262, type: vmess, uuid: 6e9eeae6-c3d1-439e-9f7a-213fe09b2dbe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ocrb2.moonfree.top}}, udp: true}
+  - {name: YouTube梦歌|Netflix_51, server: t1tw.500ml.top, port: 503, type: trojan, password: 04605db2-d32f-3bc8-9398-9e29b8028d2a, sni: t1tw.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_52, server: hncu.relay.qchwnd.moe, port: 44612, type: trojan, password: de9361ff-23f3-41f1-b200-f4d8eb6ce87c, sni: hncu.relay.qchwnd.moe, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_53, server: qd.500ml.top, port: 61004, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: qd.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_54, server: shlt.jiserver.xyz, port: 39395, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: shlt.jiserver.xyz}}, udp: true}
+  - {name: YouTube梦歌|Netflix_55, server: t1tw.500ml.top, port: 503, type: trojan, password: e87bbb7f-2601-3097-a667-9bd8efc5a0f7, sni: t1tw.500ml.top, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_56, server: awsxjp.moonfree.top, port: 443, type: vmess, uuid: 6e9eeae6-c3d1-439e-9f7a-213fe09b2dbe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: awsxjp.moonfree.top}}, udp: true}
+  - {name: YouTube梦歌|Netflix_57, server: jike1-gzyd.jiserver.xyz, port: 38555, type: vmess, uuid: 221828e0-4192-342c-99fc-9a0af6e06823, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /jike1, headers: {Host: jike1-gzyd.jiserver.xyz}}, udp: true}
+  - {name: YouTube梦歌|Netflix_58, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_59, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_60, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_61, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_62, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_63, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_64, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_65, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_66, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_67, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_68, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_69, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_70, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_67, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_68, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_69, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_70, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_71, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_72, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_73, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_74, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_75, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_75, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_76, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_77, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_78, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_79, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_80, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_81, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_82, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_83, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_84, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_85, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_86, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_87, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_88, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_80, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_81, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_82, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_83, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_84, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_85, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_86, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_87, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_88, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_89, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_90, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_91, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_92, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_90, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_91, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_92, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_93, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_94, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_95, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_96, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_97, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_98, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_95, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_96, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_97, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_98, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_99, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_100, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|Netflix_101, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_102, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_103, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_104, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_105, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_106, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_107, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_108, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_109, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_110, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_111, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_112, server: cm-jm.okvpn.xyz, port: 20003, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_113, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_114, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_115, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_116, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_117, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_118, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_119, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_120, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_121, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
-  - {name: YouTube梦歌|Netflix_122, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
+  - {name: YouTube梦歌|Netflix_102, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -235,26 +215,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -362,26 +322,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -490,26 +430,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: 📲 电报信息
     type: select
     proxies:
@@ -617,26 +537,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -744,26 +644,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -871,26 +751,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -999,26 +859,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1143,26 +983,6 @@ proxy-groups:
       - YouTube梦歌|Netflix_100
       - YouTube梦歌|Netflix_101
       - YouTube梦歌|Netflix_102
-      - YouTube梦歌|Netflix_103
-      - YouTube梦歌|Netflix_104
-      - YouTube梦歌|Netflix_105
-      - YouTube梦歌|Netflix_106
-      - YouTube梦歌|Netflix_107
-      - YouTube梦歌|Netflix_108
-      - YouTube梦歌|Netflix_109
-      - YouTube梦歌|Netflix_110
-      - YouTube梦歌|Netflix_111
-      - YouTube梦歌|Netflix_112
-      - YouTube梦歌|Netflix_113
-      - YouTube梦歌|Netflix_114
-      - YouTube梦歌|Netflix_115
-      - YouTube梦歌|Netflix_116
-      - YouTube梦歌|Netflix_117
-      - YouTube梦歌|Netflix_118
-      - YouTube梦歌|Netflix_119
-      - YouTube梦歌|Netflix_120
-      - YouTube梦歌|Netflix_121
-      - YouTube梦歌|Netflix_122
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
