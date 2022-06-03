@@ -5656,4 +5656,19 @@ KMP 頻道,p8p://fccs.123178.top:9906/6163d476000d83df0d53f1a1211aff1e.m3u8
 AV女王,p8p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb.m3u8
 水多多,p8p://fccs.123178.top:9906/6163d262000030a30d4bd018f5ef2d93.m3u8
 櫻桃,p8p://fccs.123178.top:9906/6163db960004ec200d6fc46e629bcf58.m3u8
+彩虹e台,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
+彩虹电影台,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
+松视1台,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
+松视2台,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+HOT,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
+松视3台,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
+JStar极限台,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+K,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
 P5P源,#genre#
