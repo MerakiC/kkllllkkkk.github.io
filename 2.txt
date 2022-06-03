@@ -44,6 +44,12 @@ TVB直播,http://111.229.84.232/yulin/tvb.php?id=3
 八大戏剧台,mitv://ns2.hellotvvod.com:9906/eb2e28d7bacb477391df8f31bb517041.ts
 TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/80e84e6fee044e65942de58e5558df3c.ts
 纬来戏剧台,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
+CCTV6,mitv://ns2.hellotvvod.com:9906/0f2e6de734154892a391395f2b35146d.ts
+天映频道,mitv://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
+天映经典,mitv://ns2.hellotvvod.com:9906/1d139ee4124e4f0087893f06234b0c9a.ts
+tvN Movies HD,mitv://ns2.hellotvvod.com:9906/4936b67a005d42fbbaafd803c5251c8a.ts
+HKC电影台,mitv://ns2.hellotvvod.com:9906/59321f2f03974de9a411618c99057ecd.ts
+凤凰电影台,mitv://ns2.hellotvvod.com:9906/ec5a19ad2f204f319cac7b7d02a3371b.ts
 卫视电影台,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
 东森电影台,mitv://ns2.hellotvvod.com:9906/6dbd836f8b5542a1a3054b2487286f19.ts
 纬来电影台,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
@@ -53,6 +59,9 @@ HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
 AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
 好莱坞电影台,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
 CINEMAX,mitv://ns2.hellotvvod.com:9906/36471f86b15647c0948bc0975598752c.ts
+纬来育乐台,mitv://ns2.hellotvvod.com:9906/62996e6e17b44b89a4aaa378103156cd.ts
+HBO强档巨献,mitv://ns2.hellotvvod.com:9906/2c9d5c349fef48ddb2f61ddb1b9d0282.ts
+HBO原创巨献,mitv://ns2.hellotvvod.com:9906/31d8b521b4644dc8867981416006391d.ts
 美亚电影台HD,mitv://ns2.hellotvvod.com:9906/beb09c716bbc4616a403b76fc9026512.ts
 龙华电影,mitv://ns2.hellotvvod.com:9906/7c8f50a7352049b58dfc7bbb78aada8e.ts
 星卫HD电影台,mitv://ns2.hellotvvod.com:9906/0542443a632841b5b962af8f287b7e6a.ts
@@ -66,13 +75,13 @@ CatchPlay电影台,mitv://ns2.hellotvvod.com:9906/2b42588414e34374ae4a92e73e38d0
 CinemaWorld,mitv://ns2.hellotvvod.com:9906/f3b186675b7d4cc994370eb997aaf612.ts
 壹电视电影台,mitv://ns2.hellotvvod.com:9906/cfc7f3c6f88641798fd4c57f0ae09f1f.ts
 采昌影剧台,mitv://ns2.hellotvvod.com:9906/9cdd18a45e9744a69450580b4f8afa79.ts
+BOO,mitv://ns2.hellotvvod.com:9906/ba23b65f9de94d7c82043e11e1df95a4.ts
+Thrill,mitv://ns2.hellotvvod.com:9906/b67aa79ac1bf493db4935705df4ed033.ts
 爆谷星影台,mitv://ns2.hellotvvod.com:9906/abdd87ae723043f7818b0d79abfab519.ts
+HITS Movies,mitv://ns2.hellotvvod.com:9906/a15525a46e4845f4a1d80aacf2ca151d.ts
+SHOWCASE MOVIES,mitv://ns2.hellotvvod.com:9906/7f8bd9a45a8e42d5a05ec8a56eb70ab5.ts
+影迷数位电影台,mitv://ns2.hellotvvod.com:9906/02351070157d4a33b49a516e4b5b10ca.ts
 美亚电影台(粤语),mitv://ns2.hellotvvod.com:9906/75339441b06a447c9c5af39a86aacf3f.ts
-Hands Up,mitv://ns2.hellotvvod.com:9906/a0914b9ba8fb494e917d008e0f45cc3b.ts
-粤语片台,mitv://ns2.hellotvvod.com:9906/8df75ca890094458966f4d729a8a8480.ts
-亚洲剧台,mitv://ns2.hellotvvod.com:9906/23ff3aecd0514b84950b5f638662a257.ts
-功夫台,mitv://ns2.hellotvvod.com:9906/197f2ee5157549a1977c6862b6c6dcc4.ts
-直播台,mitv://ns2.hellotvvod.com:9906/b144e848d760477094b90434cf9688f7.ts
 爆谷台,mitv://ns2.hellotvvod.com:9906/838952ce5f60497e967f718141a741db.ts
 港台频道,#genre#
 龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
