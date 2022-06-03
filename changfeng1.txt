@@ -1,19 +1,4 @@
-
-  - DOMAIN-SUFFIX,sharepointonline.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,skype.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,skypeassets.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,skypeforbusiness.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,staffhub.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,svc.ms,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sway-cdn.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sway-extensions.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,sway.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,trafficmanager.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,uservoice.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,virtualearth.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,visualstudio.com,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows-ppe.net,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,windows.com,Ⓜ️ 微软服port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
