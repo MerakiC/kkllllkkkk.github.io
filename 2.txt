@@ -1,3 +1,263 @@
+💹新,#genre#
+elevensports2,http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+欧洲体育,http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
+NBA动态,http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
+博斯高球1,http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
+博斯高球2,http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
+博斯无限,http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8
+博斯網球,http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
+博斯运动1,http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
+博斯运动2,http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+博斯魅力,http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+纬来体育,http://58.247.68.5:61985/hlsok/04a6b392/index.m3u8
+RTM Sports FHD,http://58.247.68.5:61985/hlsok/108b2bcbf/index.m3u8
+ASSP 1 FHD,http://58.247.68.5:61985/hlsok/e2a9fd412/index.m3u8
+ASSP 2 FHD,http://58.247.68.5:61985/hlsok/6005446aa/index.m3u8
+ASSP 3 FHD,http://58.247.68.5:61985/hlsok/3e8df4b90/index.m3u8
+ASSP 4 FHD,http://58.247.68.5:61985/hlsok/67925edf7/index.m3u8
+ASSP 5 FHD,http://58.247.68.5:61985/hlsok/639fd6dd8/index.m3u8
+ARENA FHD,http://58.247.68.5:61985/hlsok/a806e8354/index.m3u8
+ARENA 2 FHD,http://58.247.68.5:61985/hlsok/d51fac985/index.m3u8
+SPOTV FHD,http://58.247.68.5:61985/hlsok/256a82c5f/index.m3u8
+beIN sports 1,http://58.247.68.5:61985/hlsok/ea7fb0b25/index.m3u8
+beIN Sports 2,http://58.247.68.5:61985/hlsok/1e067f9b2/index.m3u8
+beIN Sports 3,http://58.247.68.5:61985/hlsok/2de26c1db/index.m3u8
+Eurosport FHD,http://58.247.68.5:61985/hlsok/b3415a87e/index.m3u8
+PREMIER SPORTS,http://58.247.68.5:61985/hlsok/015e92493/index.m3u8
+WWE FHD,http://58.247.68.5:61985/hlsok/1de967e63/index.m3u8
+CCTV-5 HD,http://58.247.68.5:61985/hlsok/ac09017a/index.m3u8
+CCTV-5P HD,http://58.247.68.5:61985/hlsok/b7cefdf2/index.m3u8
+GOLF HD,http://58.247.68.5:61985/hlsok/a3b2186d3/index.m3u8
+STAR CRICKET HD,http://58.247.68.5:61985/hlsok/d3e97a5b4/index.m3u8
+Champions TV1 HD,http://58.247.68.5:61985/hlsok/9b498601a/index.m3u8
+Champions TV2 HD,http://58.247.68.5:61985/hlsok/63cf51729/index.m3u8
+Champions TV3 HD,http://58.247.68.5:61985/hlsok/0b411ac7f/index.m3u8
+Champions TV4 HD,http://58.247.68.5:61985/hlsok/155051dfe/index.m3u8
+NBA TV,http://58.247.68.5:61985/hlshd/ph00101/index.m3u8
+东森电影,http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
+东森洋片,http://58.247.68.5:61985/hlsok/14561539/index.m3u8
+好莱坞,http://58.247.68.5:61985/hlsok/a78680e4/index.m3u8
+龙祥电影,http://58.247.68.5:61985/hlsok/e4a13cc1/index.m3u8
+纬来电影,http://58.247.68.5:61985/hlsok/75966caf/index.m3u8
+HBO HD,http://58.247.68.5:61985/hlsok/8fdeabec/index.m3u8
+HBO强档 HD,http://58.247.68.5:61985/hlsok/335d6895/index.m3u8
+HBO家庭 HD,http://58.247.68.5:61985/hlsok/1a67a2aa/index.m3u8
+HBO原创 HD,http://58.247.68.5:61985/hlsok/3c54101b/index.m3u8
+AXN HD,http://58.247.68.5:61985/hlsok/c1c18f78/index.m3u8
+CINEMAX HD,http://58.247.68.5:61985/hlsok/79be7824/index.m3u8
+WarnerTV HD,http://58.247.68.5:61985/hlsok/9cb32ea0/index.m3u8
+Star Movies HD,http://58.247.68.5:61985/hlsok/716adb39/index.m3u8
+CI HD,http://58.247.68.5:61985/hlsok/aad39e7d/index.m3u8
+卫视电影台,http://58.247.68.5:61985/hlsok/2359ba51/index.m3u8
+星卫电影HD,http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8
+美亚电影,http://58.247.68.5:61985/hlsok/558343fa/index.m3u8
+壹電影,http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
+靖天電影,http://58.247.68.5:61985/hlsok/b6690265/index.m3u8
+爱奇艺 FHD,http://58.247.68.5:61985/hlsok/c0603ce98/index.m3u8
+天映 FHD,http://58.247.68.5:61985/hlsok/25f0062c3/index.m3u8
+天映经典,http://58.247.68.5:61985/hlsok/38bee4d5f/index.m3u8
+天映电影 FHD,http://58.247.68.5:61985/hlsok/1adeba89d/index.m3u8
+CCTV-6 HD,http://58.247.68.5:61985/hlsok/291643ca/index.m3u8
+CN卡通,http://58.247.68.5:61985/hlsok/7fb19ba9/index.m3u8
+Animax,http://58.247.68.5:61985/hlsok/4d696d82/index.m3u8
+Baby TV,http://58.247.68.5:61985/hlsok/5c624ce4/index.m3u8
+東森幼幼,http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS HD,http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+东森电影,http://120.84.96.25:808/hls/32/index.m3u8
+龙祥时代,http://120.84.96.25:808/hls/35/index.m3u8
+卫视电影,http://61.221.81.93:8507/hls/1.m3u8
+天映经典,http://120.84.96.25:808/hls/85/index.m3u8
+蔚来电影,http://60.251.59.178:8555/http/220.134.137.129:8881/hls/71/813/ch45.m3u8?token=7375646fa8105cdd9d5038112b279a499d1b6a1d
+好莱坞,http://60.251.59.178:8554/http/220.134.137.129:8881/hls/72/814/ch46.m3u8?token=7375646fa8105cdd9d5038112b279a499d1b6a1d
+原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+中天新闻,http://60.251.59.180:8547/xoxo.m3u8
+民视新闻,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
+东森电影,http://120.84.96.25:808/hls/32/index.m3u8
+龙祥时代,http://120.84.96.25:808/hls/35/index.m3u8
+靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+三立台湾台,http://59.125.101.187:8501/playlist.m3u8
+龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+DMAX,http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279#http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+台视,http://50.7.218.42:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
+东森电影,http://120.84.96.25:808/hls/32/index.m3u8
+蔚来日本,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+东森超视,http://220.134.196.147:8972/http/116.50.42.18:8081/hls/64/806/ch14.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+东森洋片,http://120.84.96.25:808/hls/33/index.m3u8
+东森电影,http://120.84.96.25:808/hls/32/index.m3u8
+龙祥时代,http://120.84.96.25:808/hls/35/index.m3u8
+卫视电影,http://61.221.81.93:8507/hls/1.m3u8
+天映经典,http://120.84.96.25:808/hls/85/index.m3u8
+龙华动画,http://61.221.81.93:8594/hls/210/10013/cstv13.m3u8
+龙华偶像,http://61.221.81.93:8591/hls/210/10012/cstv12.m3u8
+龙华戏剧,http://61.221.81.93:8593/hls/210/10010/cstv10.m3u8
+龙华日韩,http://61.221.81.93:8592/hls/210/10011/cstv11.m3u8
+龙华电影,http://61.221.81.93:8597/hls/210/10014/cstv14.m3u8
+东森新闻,http://61.221.81.93:8542/hls/63/805/ch10.m3u8
+国家地理,http://61.221.81.93:8590/hls/61/803/ch01.m3u8
+探索亚洲频道,http://50.7.218.42:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+东森美洲台,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+龙华偶像,http://59.125.98.83:8536/playlist.m3u8
+华视新闻资讯台,http://59.125.98.83:8538/playlist.m3u8
+龙华动画,http://61.221.81.93:8594/hls/210/10013/cstv13.m3u8
+龙华戏剧,http://61.221.81.93:8593/hls/77/80/ch62.m3u8
+HBO-HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+TLC旅游生活,http://220.134.196.147:8972/http/116.50.42.18:8088/hls/70/812/ch38.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+国兴卫视,http://220.134.196.147:8975/http/116.50.42.18:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+卫视电影,http://61.221.81.93:8507/hls/77/80/ch62.m3u8
+卫视中文,http://61.221.81.93:8503/hls/77/80/ch62.m3u8
+华视新闻HD,http://220.134.196.147:11375/http/116.50.42.18:8081/hls/61/803/ch03.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+年代新聞HD,http://220.134.196.147:11380/http/116.50.42.18:8081/hls/67/809/ch27.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
+中天新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
+TVBS新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
+东森新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=55
+三立新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
+壹电视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
+民视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
+中视新闻台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
+寰宇新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
+中视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
+台视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
+民视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
+华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
+TVBS,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
+TVBS欢乐台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
+民视台湾台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
+民视第一台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
+民视综艺,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=101
+民视旅游,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
+民视影剧,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
+1綜合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+6電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+8電視劇,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+9記錄,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+13新聞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+江蘇衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+浙江衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+湖南衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+北京衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+東方衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+BBC Earth  HD,http://58.247.68.5:61985/hlsok/ea553fec/index.m3u8
+卫视电影台,http://58.247.68.5:61985/hlsok/2359ba51/index.m3u8
+卫视中文台,http://58.247.68.5:61985/hlsok/3b15e6b2/index.m3u8
+星卫电影HD,http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8
+星卫娱乐台,http://58.247.68.5:61985/hlsok/2657344c/index.m3u8
+美亚电影,http://58.247.68.5:61985/hlsok/558343fa/index.m3u8
+elevensports1,http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
+elevensports2,http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+欧洲体育,http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
+NBA动态,http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
+高點綜合,http://58.247.68.5:61985/hlsok/9569303e/index.m3u8
+壹新聞,http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
+壹综合,http://58.247.68.5:61985/hlsok/f0546361/index.m3u8
+壹電影,http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
+年代新聞,http://58.247.68.5:61985/hlsok/3abbaa2d/index.m3u8
+博斯高球1,http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
+博斯高球2,http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
+博斯无限,http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8
+博斯網球,http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
+博斯运动1,http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
+博斯运动2,http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+博斯魅力,http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+东风37,http://58.247.68.5:61985/hlsok/c1809a12/index.m3u8
+年代MUCH,http://58.247.68.5:61985/hlsok/9755ce73/index.m3u8
+JET综合,http://58.247.68.5:61985/hlsok/0c5bc08e/index.m3u8
+霹靂台灣台,http://58.247.68.5:61985/hlsok/7b8dd162/index.m3u8
+東森財經,http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
+東森戲劇,http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8
+東森綜合,http://58.247.68.5:61985/hlsok/d3cc16e5/index.m3u8
+東森幼幼,http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
+东森超视,http://58.247.68.5:61985/hlsok/53633d87/index.m3u8
+纬来育乐,http://58.247.68.5:61985/hlsok/f1a7b27f/index.m3u8
+纬来体育,http://58.247.68.5:61985/hlsok/04a6b392/index.m3u8
+緯來戲劇,http://58.247.68.5:61985/hlsok/f04a37c7/index.m3u8
+緯來綜合,http://58.247.68.5:61985/hlsok/6bfaef10/index.m3u8
+纬来日本,http://58.247.68.5:61985/hlsok/b9c4ab9a/index.m3u8
+纬来精彩,http://58.247.68.5:61985/hlsok/9554fc33/index.m3u8
+中天新闻,http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
+中天綜合,http://58.247.68.5:61985/hlsok/cd862c57/index.m3u8
+中天娱乐,http://58.247.68.5:61985/hlsok/8767613c/index.m3u8
+三立財經,http://58.247.68.5:61985/hlsok/5ff59fda/index.m3u8
+三立台灣,http://58.247.68.5:61985/hlsok/04cace76/index.m3u8
+三立都會,http://58.247.68.5:61985/hlsok/6fd6bcf8/index.m3u8
+三立戏剧,http://58.247.68.5:61985/hlsok/e27df090/index.m3u8
+八大第一台,http://58.247.68.5:61985/hlsok/0c1c9c69/index.m3u8
+八大綜合,http://58.247.68.5:61985/hlsok/41bea7e4/index.m3u8
+八大娛樂,http://58.247.68.5:61985/hlsok/ae8d3762/index.m3u8
+八大戲劇,http://58.247.68.5:61985/hlsok/ecd48897/index.m3u8
+非凡新聞,http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+寰宇新闻,http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
+BABYfIRST,http://58.247.68.5:61985/hlsok/d959b037/index.m3u8
+BBC卡通,http://58.247.68.5:61985/hlsok/e9151843/index.m3u8
+BBCLIFE,http://58.247.68.5:61985/hlsok/74fd4d2a/index.m3u8
+亞洲旅遊,http://58.247.68.5:61985/hlsok/9331c00b/index.m3u8
+EYE旅游,http://58.247.68.5:61985/hlsok/bb7e06ef/index.m3u8
+美食星球,http://58.247.68.5:61985/hlsok/00740cb7/index.m3u8
+历史H2,http://58.247.68.5:61985/hlsok/59d690d3/index.m3u8
+靖天電影,http://58.247.68.5:61985/hlsok/b6690265/index.m3u8
+靖天戏剧,http://58.247.68.5:61985/hlsok/ec8952ba/index.m3u8
+靖天日本,http://58.247.68.5:61985/hlsok/22b2a3c1/index.m3u8
+MTV,http://58.247.68.5:61985/hlsok/d909dee0/index.m3u8
+EVE,http://58.247.68.5:61985/hlsok/f5fffbfc/index.m3u8
+公视台语台,http://58.247.68.5:61985/hlsok/49ab3435/index.m3u8
+公視3HD,http://58.247.68.5:61985/hlsok/a804122f/index.m3u8
+原住民,http://58.247.68.5:61985/hlsok/8d6f904e/index.m3u8
+客家电视,http://58.247.68.5:61985/hlsok/6caa4479/index.m3u8
+中视菁采台,http://58.247.68.5:61985/hlsok/44aa1843/index.m3u8
+Blowjob Red TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6180/index.m3u8
+Brazzers eXXtra,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6181/index.m3u8
+Brazzers HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6182/index.m3u8
+Brunette Adult TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6183/index.m3u8
+cento x cento,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6184/index.m3u8
+Cherry Pimps,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6185/index.m3u8
+Club 17,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6186/index.m3u8
+Compilation Adult TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6187/index.m3u8
+Cuckold Red TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6188/index.m3u8
+Cum Louder,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6189/index.m3u8
+Cum4k,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6190/index.m3u8
+Daughter Swap,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6191/index.m3u8
+Day with a Pornstar,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6192/index.m3u8
+DDF Busty,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6193/index.m3u8
+DDF Network,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6194/index.m3u8
+Digital Desire HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6195/index.m3u8
+Digital Playground HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6196/index.m3u8
+Dorcel Club,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6197/index.m3u8
+Dusk,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6198/index.m3u8
+Evil Angel HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6199/index.m3u8
+Evolved Fights,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6200/index.m3u8
+Extasy HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6201/index.m3u8
+Fake Taxi HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6202/index.m3u8
+Fap TV 2,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6203/index.m3u8
+Fap TV 3,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6204/index.m3u8
+Fap TV 4,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6205/index.m3u8
+Fap TV Anal,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6206/index.m3u8
+Fap TV BBW,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6207/index.m3u8
+Fap TV Compilation,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6208/index.m3u8
+Fap TV Lesbian,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6209/index.m3u8
+Fap TV Parody,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6210/index.m3u8
+Fap TV Teens,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6211/index.m3u8
+FemJoy,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6212/index.m3u8
+Fetish Red TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6213/index.m3u8
+Gangbang Adult TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6214/index.m3u8
+Gay Adult TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6215/index.m3u8
+Got MYLF,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6216/index.m3u8
+Hands on Hardcore,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6217/index.m3u8
+Hard X,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6218/index.m3u8
+Hardcore Red TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6219/index.m3u8
+Hitzefrei HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6220/index.m3u8
+Holed,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6221/index.m3u8
+Hot and Mean,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6222/index.m3u8
+Hot Guys Fuck,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6223/index.m3u8
+Interracial Red TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6224/index.m3u8
 💹GO新影院,#genre#
 HBO系列,#genre#
 HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
