@@ -23,14 +23,6 @@ HBO强档影院,http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6
 龙祥电影台,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 天映电影台,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
 东森电影台,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
-东森电影,https://epg.pm/stream/fdf53c9d8af9fc3aa19bdcf11bb916b4612d9c14b0c91754782baa4d4d4522ce.m3u8
-东森电影2,https://epg.pm/stream/c57dacdfea7bdc2ed1879cb990a158f5579f4c4b3d4285940f6aa3f71a2d086e.m3u8
-东森电影台6,https://epg.pm/stream/b8d118b4a59c25f4cafce062d26fd915d0f98e115ee80eae5bdf14ca230a0042.m3u8
-东森电影台7,https://epg.pm/stream/5676adca63a4466acfafd12797d620f6f10991124b3f49c137f93d4380b3b486.m3u8
-东森电影台8,https://epg.pm/stream/b6819d3c0cfbdb80a9137363344f59840c916acfa0c237ef8c7943f1f2043c79.m3u8
-东森洋片HD,https://epg.pm/stream/4491e919dcefa45241b6f1798a050acd14c9f4c1ca1a0c6327863e85b535208c.m3u8
-东森洋片台5,https://epg.pm/stream/4bc91ab1742f3818037e2ab6e6a036f8ff88d9505d7c1ff67f74d9d3f07e454f.m3u8
-东森洋片台6,https://epg.pm/stream/65edfbea888ee7fd0656d4806e7a3436bba73ebda4e80aa20635fc6c663885a2.m3u8
 HBO高清,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 港澳台,#genre#
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8
